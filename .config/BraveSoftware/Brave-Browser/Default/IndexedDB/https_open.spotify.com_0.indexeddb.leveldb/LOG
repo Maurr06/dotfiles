@@ -1,0 +1,5 @@
+2025/07/17-19:47:48.043 696 Creating DB /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
+2025/07/17-19:47:48.134 696 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/17-19:48:21.872 697 Level-0 table #5: started
+2025/07/17-19:48:22.112 697 Level-0 table #5: 3633055 bytes OK
+2025/07/17-19:48:22.153 697 Delete type=0 #3

@@ -1,0 +1,54 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 32,
+
+  "modules-left": ["hyprland/workspaces", "cpu", "memory", "temperature"],
+  "modules-center": ["clock"],
+  "modules-right": ["pulseaudio", "network", "battery"],
+
+  "hyprland/workspaces": {
+    "on-click": "activate"
+  },
+
+  "cpu": {
+    "format": " {usage}%",
+    "interval": 2
+  },
+
+  "memory": {
+    "format": " {used:0.1f}G",
+    "interval": 2
+  },
+
+  "temperature": {
+    "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input", // ⚠️ puede cambiar, te explico abajo
+    "critical-threshold": 80,
+    "format": " {temperatureC}°C"
+  },
+
+  "pulseaudio": {
+    "format": " {volume}%",
+    "format-muted": " Mudo",
+    "scroll-step": 2,
+    "on-click": "pavucontrol"
+  },
+
+  "network": {
+    "format-wifi": " {essid}",
+    "format-ethernet": "󰈀 {ifname}",
+    "format-disconnected": " Sin red"
+  },
+
+  "battery": {
+    "format": "{icon} {capacity}%",
+    "format-icons": ["", "", "", "", ""],
+    "interval": 30
+  },
+
+  "clock": {
+    "format": " {:%A %d de %B - %H:%M}",
+    "tooltip-format": "{:%Y-%m-%d %H:%M:%S}",
+    "interval": 60
+  }
+}

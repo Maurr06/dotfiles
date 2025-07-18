@@ -1,0 +1,30 @@
+2025/07/18-00:12:16.392 16b43 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/18-00:12:16.392 16b43 Recovering log #353
+2025/07/18-00:12:16.394 16b43 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000353.log 
+2025/07/18-00:19:11.395 16b43 Level-0 table #358: started
+2025/07/18-00:19:11.501 16b43 Level-0 table #358: 1556998 bytes OK
+2025/07/18-00:19:11.536 16b43 Delete type=0 #353
+2025/07/18-00:23:09.011 16b42 Compacting 1@1 + 1@2 files
+2025/07/18-00:23:09.061 16b42 Generated table #359@1: 351 keys, 69876 bytes
+2025/07/18-00:23:09.061 16b42 Compacted 1@1 + 1@2 files => 69876 bytes
+2025/07/18-00:23:09.101 16b42 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/18-00:23:09.101 16b42 Delete type=2 #358
+2025/07/18-00:23:09.101 16b42 Delete type=2 #355
+2025/07/18-00:29:31.062 16b43 Level-0 table #361: started
+2025/07/18-00:29:31.141 16b43 Level-0 table #361: 1051944 bytes OK
+2025/07/18-00:29:31.182 16b43 Delete type=0 #357
+2025/07/18-00:31:41.067 16b43 Compacting 1@1 + 1@2 files
+2025/07/18-00:31:41.127 16b43 Generated table #362@1: 367 keys, 54816 bytes
+2025/07/18-00:31:41.127 16b43 Compacted 1@1 + 1@2 files => 54816 bytes
+2025/07/18-00:31:41.161 16b43 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/18-00:31:41.161 16b43 Delete type=2 #359
+2025/07/18-00:31:41.161 16b43 Delete type=2 #361
+2025/07/18-00:32:35.480 16b43 Level-0 table #364: started
+2025/07/18-00:32:35.586 16b43 Level-0 table #364: 1455125 bytes OK
+2025/07/18-00:32:35.627 16b43 Delete type=0 #360
+2025/07/18-00:33:46.714 16b43 Compacting 1@1 + 1@2 files
+2025/07/18-00:33:46.747 16b43 Generated table #365@1: 366 keys, 68686 bytes
+2025/07/18-00:33:46.747 16b43 Compacted 1@1 + 1@2 files => 68686 bytes
+2025/07/18-00:33:46.780 16b43 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/18-00:33:46.780 16b43 Delete type=2 #364
+2025/07/18-00:33:46.780 16b43 Delete type=2 #362

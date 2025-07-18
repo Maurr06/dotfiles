@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "src/assets/icons/icon19.png",
+         "38": "src/assets/icons/icon38.png",
+         "48": "src/assets/icons/icon48.png"
+      },
+      "default_popup": "src/ui/popup/popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "src/styles/inject.css" ],
+      "exclude_matches": [ "https://hangouts.google.com/*", "https://meet.google.com/*" ],
+      "js": [ "src/content/injector.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ]
+   } ],
+   "description": "Speed up, slow down, advance and rewind HTML5 audio/video with shortcuts",
+   "homepage_url": "https://github.com/igrigorik/videospeed",
+   "icons": {
+      "128": "src/assets/icons/icon128.png",
+      "16": "src/assets/icons/icon16.png",
+      "48": "src/assets/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJ+jYyuxedzdiVTnuq32j7ywDdo8aQWP6MuGARBwloAkMtoRKPj+PnL14AYPgJ/WqsXBZ3xn9p5k+ZwmK7sXW88ULaNm+valQJwukYlxb6M/Ma2DrSpxBmjt61umLletnMyuSSFtJcHpKT2BbLh8tkIZ7GSZtUhYhf1/FjGJ1P38e4kwYXx/mCD2KBTMVZoYRSslBfIGfGWF3Hu+u2KQpunEGArGVqGUxWITppJrgOVKFpEOGqFWtBGVsGihZe1psSI+NEGQvUL2BWR1yllGzq22HdAwDeHONvdbMvL+qeGBk1CWl9smmPg2v4Jg1K+DBnvjPp9W9K29vyiPX2tLiQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "89",
+   "name": "Video Speed Controller",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "src/ui/options/options.html"
+   },
+   "permissions": [ "storage", "activeTab" ],
+   "short_name": "videospeed",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.9.0",
+   "web_accessible_resources": [ {
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ],
+      "resources": [ "src/styles/inject.css", "src/styles/shadow.css", "src/module-loader.js", "src/core/*.js", "src/utils/*.js", "src/ui/*.js", "src/observers/*.js", "src/site-handlers/*.js", "src/content/*.js" ]
+   } ]
+}
