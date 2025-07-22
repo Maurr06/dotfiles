@@ -1,0 +1,8 @@
+[General]
+SystemInstallDate=2025-07-09
+
+[KickerRunnerManager]
+LaunchCounts=2 exec:///usr/bin/flameshot,3 exec:///usr/bin/kwalletmanager5,1 exec:///usr/bin/lmms,1 krunner_systemsettings_kcm_kwallet5,2 krunner_systemsettings_kcm_keyboard,1 exec:///usr/bin/thunar,1 krunner_systemsettings_kcm_kwin_scripts,1 krunner_systemsettings_kcm_desktoppaths,1 exec:///usr/bin/systemsettings,3 exec:///usr/bin/code-oss,7 krunner_systemsettings_kcm_keys,4 exec:///usr/bin/brave,1 exec:///usr/lib/firefox/firefox,11 exec:///usr/bin/konsole,6 krunner_systemsettings_kcm_nightlight,2 krunner_systemsettings_kcm_kwinrules,18 exec:///opt/brave-bin/brave --profile-directory=Default --app-id=hnpfjngllnobngcgfapefoaidbinmjnm
+
+[KickerRunnerManager][History]
+0986e1d5-70d4-4473-85e2-27294921e740=w,atajos,logout,lmms,code,reglas,reg,gu,gui,pre,info,pref,bra,dolp,sett,blo,luz,teclado,flameshot,br,f,flame,lu,lm,bloqueo,b,kwall,k,kde,vis,ni,l,kd,kw,brave,shut down,wha,reboot,apagar,tecl,ko,shortcuts,kon,thunar,konsole,fi,fire

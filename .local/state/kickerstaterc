@@ -1,0 +1,10 @@
+InstalledApps=brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop,org.kde.kinfocenter.desktop,assistant.desktop,code-oss.desktop,electron35.desktop,fluid.desktop,assistant.desktop,qdbusviewer.desktop,linguist.desktop,designer.desktop,org.flameshot.Flameshot.desktop,brave-browser.desktop,bssh.desktop,bvnc.desktop,org.pulseaudio.pavucontrol.desktop,lmms.desktop,mpv.desktop,qv4l2.desktop,qvidcap.desktop,thunar.desktop,org.kde.kinfocenter.desktop,nm-connection-editor.desktop,org.pulseaudio.pavucontrol.desktop,org.kde.kmenuedit.desktop,htop.desktop,kitty.desktop,avahi-discover.desktop,thunar-settings.desktop,systemsettings.desktop,thunar-bulk-rename.desktop,code-oss.desktop,org.kde.plasma.emojier.desktop,xgps.desktop,xgpsspeed.desktop
+
+[Application][mpv.desktop]
+FirstSeen=2025,7,18
+
+[Application][org.kde.dolphin.desktop]
+LastSeen=2025,7,18
+
+[Application][org.kde.konsole.desktop]
+LastSeen=2025,7,18

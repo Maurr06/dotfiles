@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "a9304002-1229-40a4-8295-9fc5ed1fb12f",
+      "logo": {
+        "imageUrl": "1e767854-b6ba-4af3-a8e8-8f0bebf631ba/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+        "destinationUrl": "https://mezo.org/brave-mezo",
+        "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+        "companyName": "Mezo"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "1e767854-b6ba-4af3-a8e8-8f0bebf631ba/cbd59b97-156f-4f31-b3b2-d29926b697db.jpg",
+          "creativeInstanceId": "6eb24818-a812-408f-819c-a47f0e9af897",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "8b850af4-2314-4bd2-934c-5f41df67535b/276c72b0-4cda-4b0c-a1bf-57cd23b764a2.jpg",
+          "creativeInstanceId": "a3c70af7-17cd-4a7a-9fd7-e263c2428e88",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "8b850af4-2314-4bd2-934c-5f41df67535b/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+            "destinationUrl": "https://mezo.org/brave-mezo",
+            "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+            "companyName": "Mezo"
+          }
+        },
+        {
+          "imageUrl": "deab04bd-f4fb-4886-9f7b-0499ad87e805/b45adf00-d750-4f65-bf42-5941c381a674.jpg",
+          "creativeInstanceId": "57963a61-b077-4d84-b24b-e9082ba05d51",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "deab04bd-f4fb-4886-9f7b-0499ad87e805/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+            "destinationUrl": "https://mezo.org/brave-mezo",
+            "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+            "companyName": "Mezo"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "a9304002-1229-40a4-8295-9fc5ed1fb12f",
+      "logo": {
+        "imageUrl": "1e767854-b6ba-4af3-a8e8-8f0bebf631ba/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+        "destinationUrl": "https://mezo.org/brave-mezo",
+        "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+        "companyName": "Mezo"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "1e767854-b6ba-4af3-a8e8-8f0bebf631ba/cbd59b97-156f-4f31-b3b2-d29926b697db.jpg",
+          "creativeInstanceId": "6eb24818-a812-408f-819c-a47f0e9af897",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "8b850af4-2314-4bd2-934c-5f41df67535b/276c72b0-4cda-4b0c-a1bf-57cd23b764a2.jpg",
+          "creativeInstanceId": "a3c70af7-17cd-4a7a-9fd7-e263c2428e88",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "8b850af4-2314-4bd2-934c-5f41df67535b/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+            "destinationUrl": "https://mezo.org/brave-mezo",
+            "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+            "companyName": "Mezo"
+          }
+        },
+        {
+          "imageUrl": "deab04bd-f4fb-4886-9f7b-0499ad87e805/b45adf00-d750-4f65-bf42-5941c381a674.jpg",
+          "creativeInstanceId": "57963a61-b077-4d84-b24b-e9082ba05d51",
+          "focalPoint": {
+            "x": 1164,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "deab04bd-f4fb-4886-9f7b-0499ad87e805/79110743-b2eb-4e75-a838-c5d50bc43c80.png",
+            "destinationUrl": "https://mezo.org/brave-mezo",
+            "alt": "Mezo - Your lifestyle on bitcoin - Bank on yourself",
+            "companyName": "Mezo"
+          }
+        }
+      ]
+    }
+  ]
+}

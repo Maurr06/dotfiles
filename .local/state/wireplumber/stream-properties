@@ -1,0 +1,14 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Input/Audio:application.id:org.PulseAudio.pavucontrol={"volume":1.000000, "channelMap":["MONO"], "mute":false, "channelVolumes":[1.000000]}
+Input/Audio:application.id:org.kde.plasma-pa={"channelMap":["MONO"], "channelVolumes":[1.000000], "volume":1.000000, "mute":false}
+Input/Audio:application.name:cava={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false}
+Input/Audio:media.role:Music={"mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "volume":1.000000}
+Output/Audio:application.name:Brave={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[0.421335, 0.421335], "mute":false}
+Output/Audio:application.name:Chromium={"mute":false, "volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Firefox={"channelMap":["FL", "FR"], "mute":false, "volume":1.000000, "channelVolumes":[0.950000, 0.950000]}
+Output/Audio:media.role:Game={"channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:media.role:Movie={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false, "volume":1.000000}
+Output/Audio:media.role:Music={"volume":1.000000, "channelMap":["FC"], "mute":false, "channelVolumes":[0.296934]}
+Output/Audio:media.role:Notification={"channelMap":["MONO"], "volume":1.000000, "channelVolumes":[0.999954], "mute":false}
+Output/Audio:media.role:alert={"channelMap":["FL", "FR"], "volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false}

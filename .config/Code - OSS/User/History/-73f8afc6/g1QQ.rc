@@ -1,0 +1,4 @@
+[Thumbnailer Scheduler]
+Priority=2
+MaxConcurrent=2
+CacheSize=52428800

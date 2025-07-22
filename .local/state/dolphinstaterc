@@ -1,0 +1,15 @@
+[Open-with settings]
+History=code-oss,org.kde.konsole,org.kde.dolphin
+LastChoice=code-oss
+
+[SettingsDialog]
+2 screens: Height=719
+2 screens: Width=976
+
+[State]
+1920x1080 screen: Window-Maximized=true
+2 screens: Height=977
+2 screens: Width=1888
+2 screens: Window-Maximized=true
+3 screens: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAEAAAADuvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAAA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAwAAADugAAAFMA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAAA////AAAGTwAAA7oAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=

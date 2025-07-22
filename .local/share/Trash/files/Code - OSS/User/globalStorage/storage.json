@@ -1,0 +1,146 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9e524ccaae4a859bda7dde2582baf6d6b8375fdf7a6ef284e011e3491f666ba9",
+    "telemetry.devDeviceId": "ecd1e7df-fdcc-47bb-bdc8-0b7bebc51cf3",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/maurod/Dotfiles/InstallScripts"
+            },
+            {
+                "folderUri": "file:///home/maurod/Dotfiles/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/maurod/Documentos/lmms/plugins/ladspa": "__default__profile__",
+            "file:///home/maurod/.cache/hyprland": "__default__profile__",
+            "file:///home/maurod/.oh-my-zsh/custom/plugins/zsh-autosuggestions": "__default__profile__",
+            "file:///home/maurod/.oh-my-zsh": "__default__profile__",
+            "file:///home/maurod/.config/waybar": "__default__profile__",
+            "file:///home/maurod/.config": "__default__profile__",
+            "file:///home/maurod/Dotfiles/.config/waybar": "__default__profile__",
+            "file:///home/maurod": "__default__profile__",
+            "file:///home/maurod/Dotfiles": "__default__profile__",
+            "file:///home/maurod/Dotfiles/ScriptsRapidos": "__default__profile__",
+            "file:///home/maurod/Dotfiles/InstallScripts": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/maurod/Dotfiles/.config/waybar",
+            "backupPath": "/home/maurod/.config/Code - OSS/Backups/0a7d0e27e0c0a3859d213b658f89d3f6",
+            "uiState": {
+                "mode": 1,
+                "x": 2889,
+                "y": 24,
+                "width": 927,
+                "height": 985
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 177,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "b683d71ae4f01f91d2cd088703d56776": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "686e04472f35453cc01817d25981fd50": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b74a6fe08b7c74b5734b2cd0c2820043": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ec8d71940cb487f7f7f3b08fba75f973": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4287795e7759f7cab568b9ecf6be4375": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9c44afa1c603000cd449c4133b4ad794": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "142e39af62f8b25b9efb356fbccc9898": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "30afe815da5551dd4c80073e81f4809f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9cd3d8a640c7d9129f4e0f77ed623139": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "23793527c7110ed33c8354203e8d06ef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e159f833cad7c95f9ac468b8be3cdc1f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9084ffae48bf911caa4b5a1e90c224dd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f5a561f1936a734a07d7008a531ed255": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "151d06a43aed380a9b88c07f7bcf33e9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "b8e1c07fcc87ee276836e41837250251": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

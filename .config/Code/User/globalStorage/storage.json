@@ -1,0 +1,126 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9e524ccaae4a859bda7dde2582baf6d6b8375fdf7a6ef284e011e3491f666ba9",
+    "telemetry.devDeviceId": "ecd1e7df-fdcc-47bb-bdc8-0b7bebc51cf3",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1753146012652"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/maurod/Dotfiles/.config/waybar": "__default__profile__",
+            "file:///home/maurod/.config/%E2%90%8D": "__default__profile__",
+            "file:///home/maurod/Dotfiles/InstallScripts": "__default__profile__",
+            "file:///home/maurod/Dotfiles": "__default__profile__",
+            "file:///home/maurod/.config/wal": "__default__profile__",
+            "file:///home/maurod/.config/cava": "__default__profile__",
+            "file:///home/maurod/PRUEBAPAQUETE": "__default__profile__",
+            "file:///home/maurod/.config/wofi": "__default__profile__",
+            "file:///home/maurod/dotfiles": "__default__profile__",
+            "file:///home/maurod": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1753142872814": "__default__profile__",
+            "1753143122609": "__default__profile__",
+            "1753145973869": "__default__profile__",
+            "1753146012652": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/maurod/.config/Code/Backups/1753146012652",
+            "uiState": {
+                "mode": 1,
+                "x": 1944,
+                "y": 24,
+                "width": 927,
+                "height": 975
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 231,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "b8e1c07fcc87ee276836e41837250251": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "763cc9e523d20216a5ae8952ba43623b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "151d06a43aed380a9b88c07f7bcf33e9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "4930f3138cb1ca7f60d2832884526167": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6851c6a03088319c2987b9762119f40f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "940a221f652e0c7e7c74c962ad1aed43": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "cc780a5cc5b9b6aaf0505dfd44036976": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fa112e2f9924214715846cb2d040cc2a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7115fd6aac79febfbd6c3df1b40372c5": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "30afe815da5551dd4c80073e81f4809f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

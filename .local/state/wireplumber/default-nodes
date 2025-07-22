@@ -1,0 +1,4 @@
+[default-nodes]
+default.configured.audio.sink=alsa_output.usb-GeneralPlus_USB_Audio_Device-00.analog-stereo
+default.configured.audio.sink.0=alsa_output.pci-0000_00_1f.3.analog-stereo
+default.configured.audio.sink.1=alsa_output.pci-0000_01_00.1.hdmi-stereo

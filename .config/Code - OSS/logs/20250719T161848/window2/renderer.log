@@ -1,0 +1,10 @@
+2025-07-19 16:18:49.474 [error] Error: The editor could not be opened because the file was not found.
+    at jxe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:120026)
+    at async jxe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:119184)
+    at async f7e.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19757)
+    at async f7e.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18312)
+    at async f7e.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17394)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23340
+2025-07-19 16:18:49.499 [info] Started local extension host with pid 5591.
+2025-07-19 16:18:49.529 [info] ComputeTargetPlatform: linux-x64
+2025-07-19 16:18:52.209 [info] [perf] Render performance baseline is 21ms

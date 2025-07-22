@@ -1,0 +1,1 @@
+ps -o pid,tty,cmd -e | grep tty2

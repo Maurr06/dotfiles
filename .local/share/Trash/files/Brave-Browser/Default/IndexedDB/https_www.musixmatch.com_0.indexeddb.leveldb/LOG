@@ -1,0 +1,10 @@
+2025/07/09-22:16:22.105 79e8 Creating DB /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.musixmatch.com_0.indexeddb.leveldb since it was missing.
+2025/07/09-22:16:22.271 79e8 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.musixmatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-22:16:22.535 79f3 Level-0 table #5: started
+2025/07/09-22:16:22.612 79f3 Level-0 table #5: 674 bytes OK
+2025/07/09-22:16:22.713 79f3 Delete type=0 #3
+2025/07/09-22:16:22.715 79f3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/09-22:16:22.779 79e8 Level-0 table #7: started
+2025/07/09-22:16:22.813 79e8 Level-0 table #7: 745 bytes OK
+2025/07/09-22:16:22.879 79e8 Delete type=0 #4
+2025/07/09-22:16:22.880 79e7 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

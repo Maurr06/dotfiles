@@ -1,0 +1,4 @@
+2025/07/20-00:20:29.181 23951 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/WebStorage/26/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/07/20-00:20:29.181 23951 Recovering log #3
+2025/07/20-00:20:29.181 23951 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/WebStorage/26/IndexedDB/indexeddb.leveldb/000003.log 
+2025/07/20-00:20:29.295 23951 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

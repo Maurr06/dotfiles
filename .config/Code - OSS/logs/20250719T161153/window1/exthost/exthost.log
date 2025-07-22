@@ -1,0 +1,13 @@
+2025-07-19 16:11:56.303 [info] Extension host with pid 1234 started
+2025-07-19 16:11:56.303 [info] Skipping acquiring lock for /home/maurod/.config/Code - OSS/User/workspaceStorage/9084ffae48bf911caa4b5a1e90c224dd.
+2025-07-19 16:11:56.424 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-19 16:11:56.460 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-19 16:11:56.463 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-19 16:11:56.505 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-19 16:11:56.595 [info] Eager extensions activated
+2025-07-19 16:11:56.597 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-19 16:11:56.599 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-19 16:12:03.674 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-19 16:12:03.683 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-19 16:12:03.700 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-07-19 16:12:03.750 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

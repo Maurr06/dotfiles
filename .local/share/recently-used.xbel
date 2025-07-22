@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="https://community.kde.org/Welcome_to_KDE?source=plasma-welcome" added="2025-07-09T04:34:04.705000Z" modified="2025-07-09T04:34:04.705000Z" visited="2025-07-09T04:34:04.705000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2025-07-09T04:34:04.705000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/astize_cc0_split1.png" added="2025-07-10T01:04:20.045000Z" modified="2025-07-10T02:35:13.263000Z" visited="2025-07-10T02:35:13.263000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T01:04:20.045000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:52.584832Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.263000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/simple.png" added="2025-07-10T01:04:44.874000Z" modified="2025-07-10T02:35:13.565000Z" visited="2025-07-10T02:35:13.565000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T01:04:44.874000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:34:00.135383Z" count="2"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.565000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/arch_fill.png" added="2025-07-10T01:06:09.076000Z" modified="2025-07-10T02:35:13.063000Z" visited="2025-07-10T02:35:13.063000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T01:06:09.076000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:43.060610Z" count="3"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.063000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/DvZl9bv.jpeg" added="2025-07-10T02:26:19.041000Z" modified="2025-07-10T02:35:13.464000Z" visited="2025-07-10T02:35:13.464000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T02:26:19.041000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:56.938423Z" count="3"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.464000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/AbWmEVz.jpeg" added="2025-07-10T02:26:24.131000Z" modified="2025-07-10T02:35:12.940000Z" visited="2025-07-10T02:35:12.940000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T02:26:24.131000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:22.847663Z" count="4"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:12.940000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/tmQPo7M.png" added="2025-07-10T02:26:50.827000Z" modified="2025-07-10T02:35:13.665000Z" visited="2025-07-10T02:35:13.665000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T02:26:50.827000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:59.009630Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.665000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/74j9SFG.png" added="2025-07-10T02:27:26.423000Z" modified="2025-07-10T02:35:12.840000Z" visited="2025-07-10T02:35:12.840000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2025-07-10T02:27:26.423000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:18.958980Z" count="5"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:12.840000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/ArchLogo.svg" added="2025-07-10T02:33:47.441037Z" modified="2025-07-10T02:35:13.163000Z" visited="2025-07-10T02:35:13.163000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:47.441039Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.163000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/blue_arch_nowatermark.png" added="2025-07-10T02:33:55.383540Z" modified="2025-07-10T02:35:13.364000Z" visited="2025-07-10T02:35:13.364000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-10T02:33:55.383545Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2025-07-10T02:35:13.364000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master.zip" added="2025-07-12T01:35:25.966000Z" modified="2025-07-12T01:35:25.966000Z" visited="2025-07-12T01:35:25.966000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2025-07-12T01:35:25.966000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="zip:///home/maurod/Descargas/grub2-themes-master.zip/grub2-themes-master/install.sh" added="2025-07-12T01:35:39.095000Z" modified="2025-07-12T01:35:39.095000Z" visited="2025-07-12T01:35:39.095000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.konsole" exec="konsole %u" modified="2025-07-12T01:35:39.095000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master/install.sh" added="2025-07-12T01:44:32.328000Z" modified="2025-07-12T01:44:32.328000Z" visited="2025-07-12T01:44:32.328000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.konsole" exec="konsole %f" modified="2025-07-12T01:44:32.328000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/xenlism-grub-arch-1080p.tar.xz" added="2025-07-12T02:54:10.777000Z" modified="2025-07-12T02:54:19.399000Z" visited="2025-07-12T02:54:19.399000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.konsole" exec="konsole %f" modified="2025-07-12T02:54:10.777000Z" count="1"/>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2025-07-12T02:54:19.399000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="tar:///home/maurod/Descargas/xenlism-grub-arch-1080p.tar.xz/xenlism-grub-arch-1080p/install.sh" added="2025-07-12T02:54:26.549000Z" modified="2025-07-12T02:54:32.996000Z" visited="2025-07-12T02:54:32.996000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.konsole" exec="konsole %u" modified="2025-07-12T02:54:26.549000Z" count="1"/>
+          <bookmark:application name="konsolerun" exec="dolphin %u" modified="2025-07-12T02:54:32.996000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/xenlism-grub-arch-1080p.tar" added="2025-07-12T02:58:15.495000Z" modified="2025-07-12T03:02:52.642000Z" visited="2025-07-12T03:02:52.642000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2025-07-12T03:02:52.642000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://docs.kde.org/index.php?branch=stable5&amp;language=en_US&amp;application=kcontrol/region_language&amp;path=index.html" added="2025-07-12T03:13:49.664000Z" modified="2025-07-12T03:13:49.664000Z" visited="2025-07-12T03:13:49.664000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-12T03:13:49.664000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/Gorgeous-GRUB-main/Installation.md" added="2025-07-12T03:14:56.235000Z" modified="2025-07-12T03:15:05.642000Z" visited="2025-07-12T03:15:05.642000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2025-07-12T03:14:56.235000Z" count="1"/>
+          <bookmark:application name="code-oss" exec="code-oss %f" modified="2025-07-12T03:15:05.642000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/fallout-grub-theme-master/README.md" added="2025-07-12T03:19:17.268000Z" modified="2025-07-12T03:20:07.498000Z" visited="2025-07-12T03:20:07.498000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-07-12T03:19:17.268000Z" count="1"/>
+          <bookmark:application name="org.kde.konsole" exec="konsole %f" modified="2025-07-12T03:19:41.173000Z" count="1"/>
+          <bookmark:application name="code-oss" exec="code-oss %f" modified="2025-07-12T03:20:07.498000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master/preview.png" added="2025-07-14T12:39:12.277000Z" modified="2025-07-14T12:39:12.277000Z" visited="2025-07-14T12:39:12.277000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="sxiv" exec="sxiv %f" modified="2025-07-14T12:39:12.277000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master/assets/info.svg" added="2025-07-14T12:39:33.102000Z" modified="2025-07-14T12:39:33.102000Z" visited="2025-07-14T12:39:33.102000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-14T12:39:33.102000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master/assets/logos-color.svg" added="2025-07-14T12:39:39.804000Z" modified="2025-07-14T12:39:39.804000Z" visited="2025-07-14T12:39:39.804000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-14T12:39:39.804000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/grub2-themes-master/assets/logos-white.svg" added="2025-07-14T12:39:52.952000Z" modified="2025-07-14T12:39:58.141000Z" visited="2025-07-14T12:39:58.141000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-14T12:39:58.141000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://docs.kde.org/index.php?branch=stable5&amp;language=es_ES&amp;application=dolphin&amp;path=index.html" added="2025-07-15T03:18:15.465000Z" modified="2025-07-15T03:18:22.289000Z" visited="2025-07-15T03:18:22.289000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-15T03:18:22.289000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/anametologin/krohnkite#readme" added="2025-07-15T21:57:47.088000Z" modified="2025-07-15T21:57:47.088000Z" visited="2025-07-15T21:57:47.088000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave-browser" exec="brave %u" modified="2025-07-15T21:57:47.088000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/hola.txt" added="2025-07-15T22:57:22.252000Z" modified="2025-07-15T22:57:22.252000Z" visited="2025-07-15T22:57:22.252000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code-oss" exec="code-oss %f" modified="2025-07-15T22:57:22.252000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp:udi=/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/" added="2025-07-18T23:35:52.279000Z" modified="2025-07-18T23:36:01.923000Z" visited="2025-07-18T23:36:01.923000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="kitty-open" exec="kitty +open %u" modified="2025-07-18T23:36:01.923000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/maurod/COMPARTIDO/Distribucion.png" added="2025-07-19T00:24:29.474699Z" modified="2025-07-19T00:24:29.474711Z" visited="2025-07-19T00:24:29.474700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T00:24:29.474703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Pictures/.gs_fs6/.0.jpg" added="2025-07-19T00:47:23.155102Z" modified="2025-07-19T00:47:23.155104Z" visited="2025-07-19T00:47:23.155102Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T00:47:23.155103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Video%20Notes/202411/PTV-20240314-WA0054.mp4" added="2025-07-19T00:50:56.361473Z" modified="2025-07-19T00:50:56.361477Z" visited="2025-07-19T00:50:56.361474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T00:50:56.361475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Video%20Notes/202440/PTV-20241001-WA0019.mp4" added="2025-07-19T00:51:04.197105Z" modified="2025-07-19T00:51:04.197108Z" visited="2025-07-19T00:51:04.197105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T00:51:04.197106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Pictures/HiLook2023%20Album/.trashed-1755466833-20241017005314614_72c1c73e2a1f412a9ddfe138bb703f98_AG9363505.mp4" added="2025-07-19T02:27:07.482654Z" modified="2025-07-19T02:27:07.482656Z" visited="2025-07-19T02:27:07.482654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T02:27:07.482655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Pictures/HiLook2023%20Album/.trashed-1755466833-20241017005327090_72c1c73e2a1f412a9ddfe138bb703f98_AG9363505.jpg" added="2025-07-19T02:27:13.328847Z" modified="2025-07-19T02:27:13.328850Z" visited="2025-07-19T02:27:13.328847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T02:27:13.328848Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Pictures/HiLook2023%20Album/.trashed-1755466833-20250104170726395_9e25ae49c5c547079d2f38f3ad190207_AG9363505.jpg" added="2025-07-19T02:27:27.853262Z" modified="2025-07-19T02:27:27.853265Z" visited="2025-07-19T02:27:27.853262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T02:27:27.853263Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Pictures/HiLook2023%20Album/thumbnails/.trashed-1755466832-20250105004630581_9b41f5e49912420cb2d6a7578c30c0ad_AG9363505.jpg" added="2025-07-19T02:29:58.104605Z" modified="2025-07-19T02:30:07.942364Z" visited="2025-07-19T02:29:58.104605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T02:30:07.942358Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/Fondos/astize_cc0_split1.png" added="2025-07-19T03:21:55.290986Z" modified="2025-07-19T03:22:42.025628Z" visited="2025-07-19T03:21:55.290987Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T03:22:42.025619Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/Fondos/arch_fill.png" added="2025-07-19T03:22:38.857601Z" modified="2025-07-19T03:22:38.857611Z" visited="2025-07-19T03:22:38.857602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T03:22:38.857605Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Dotfiles/LICENSE" added="2025-07-19T18:04:50.376136Z" modified="2025-07-20T03:53:25.986030Z" visited="2025-07-19T18:04:50.376137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-20T03:53:25.986029Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/.trashed-1755470287-IMG-20250517-WA0040.jpg" added="2025-07-19T18:05:23.179089Z" modified="2025-07-19T18:05:30.170621Z" visited="2025-07-19T18:05:23.179090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T18:05:30.170614Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/horario.jpg" added="2025-07-19T18:05:37.671636Z" modified="2025-07-20T03:49:27.967906Z" visited="2025-07-19T18:05:37.671638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-20T03:49:27.967902Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Descargas/Fondos/arch9.png" added="2025-07-19T18:08:38.749393Z" modified="2025-07-19T18:08:38.749403Z" visited="2025-07-19T18:08:38.749394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T18:08:38.749397Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Dotfiles/readme.md" added="2025-07-19T18:09:48.313481Z" modified="2025-07-20T03:53:32.022925Z" visited="2025-07-19T18:09:48.313482Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-20T03:53:32.022924Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Dotfiles" added="2025-07-19T22:47:10.130703Z" modified="2025-07-19T22:47:10.130708Z" visited="2025-07-19T22:47:10.130703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-07-19T22:47:10.130705Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/Dotfiles/.config/kitty/kitty.conf" added="2025-07-19T23:43:29.631699Z" modified="2025-07-19T23:43:29.631702Z" visited="2025-07-19T23:43:29.631699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2025-07-19T23:43:29.631700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/PRUEBAPAQUETE" added="2025-07-20T01:08:00.896272Z" modified="2025-07-20T01:08:00.896276Z" visited="2025-07-20T01:08:00.896273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-07-20T01:08:00.896274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/maurod/COMPARTIDO/FATI/Rutas%20Celular.txt" added="2025-07-21T04:11:45.030467Z" modified="2025-07-22T01:00:11.064977Z" visited="2025-07-21T04:11:45.030467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T01:00:11.064970Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod" added="2025-07-21T12:34:59.939764Z" modified="2025-07-21T12:34:59.939767Z" visited="2025-07-21T12:34:59.939765Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-07-21T12:34:59.939766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/diarios/new%20diary.diary" added="2025-07-21T12:46:39.202521Z" modified="2025-07-21T12:48:26.755126Z" visited="2025-07-21T12:46:39.202523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-lifeographdiary"/>
+        <bookmark:applications>
+          <bookmark:application name="Lifeograph" exec="&apos;lifeograph %u&apos;" modified="2025-07-21T12:48:26.755125Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/a.out" added="2025-07-21T21:12:22.624045Z" modified="2025-07-21T21:12:22.624047Z" visited="2025-07-21T21:12:22.624045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-21T21:12:22.624046Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Animated%20Gifs/Sent/VID-20230118-WA0008.mp4" added="2025-07-22T00:12:36.144416Z" modified="2025-07-22T00:12:36.144419Z" visited="2025-07-22T00:12:36.144417Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:12:36.144417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Animated%20Gifs/Sent/VID-20240103-WA0049.mp4" added="2025-07-22T00:12:41.269438Z" modified="2025-07-22T00:12:41.269441Z" visited="2025-07-22T00:12:41.269439Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:12:41.269440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Animated%20Gifs/Sent/VID-20230326-WA0042.mp4" added="2025-07-22T00:15:59.664275Z" modified="2025-07-22T00:15:59.664278Z" visited="2025-07-22T00:15:59.664276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:15:59.664276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Backup%20Excluded%20Stickers/Ia06h99QQqCPLo0lgNnKhE-NwiIslf+jE52+Kha101Q=.webp" added="2025-07-22T00:21:26.213883Z" modified="2025-07-22T00:21:26.213887Z" visited="2025-07-22T00:21:26.213884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:21:26.213885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Backup%20Excluded%20Stickers/++6zIJvx4AAwrJ26WY9MKYCluET9+yowyIqPtkQacu0=.webp" added="2025-07-22T00:21:33.265515Z" modified="2025-07-22T00:21:54.411363Z" visited="2025-07-22T00:21:33.265516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:21:54.411360Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Backup%20Excluded%20Stickers/CheckMates.png" added="2025-07-22T00:22:14.194180Z" modified="2025-07-22T00:22:14.194183Z" visited="2025-07-22T00:22:14.194181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:22:14.194181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maurod/q7ieJBrc7g46rJdkTD-sLBG+XmtuMweIzcn-fQoaIEg=.webp" added="2025-07-22T00:25:31.361366Z" modified="2025-07-22T00:25:33.309503Z" visited="2025-07-22T00:25:31.361367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:25:33.309498Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Backup%20Excluded%20Stickers/bsZOqBsFBPSY4ZOWQW5Mc05CdEXcq5Bbp3YO2v3HRAw=.webp" added="2025-07-22T00:25:41.886956Z" modified="2025-07-22T00:25:45.710111Z" visited="2025-07-22T00:25:41.886956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T00:25:45.710109Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Business%20Documents/ORF%202023%20NIVEL%201%20CAPITAL.pdf" added="2025-07-22T01:01:55.378612Z" modified="2025-07-22T01:02:19.882936Z" visited="2025-07-22T01:01:55.378612Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T01:02:19.882935Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Voice%20Notes/202523/PTT-20250601-WA0011.opus" added="2025-07-22T01:04:40.151788Z" modified="2025-07-22T01:05:05.344610Z" visited="2025-07-22T01:04:40.151788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T01:05:05.344608Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento%20interno%20compartido/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp%20Images/.trashed-1755469939-IMG-20240320-WA0006.jpg" added="2025-07-22T01:09:42.874917Z" modified="2025-07-22T01:09:42.874933Z" visited="2025-07-22T01:09:42.874919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-22T01:09:42.874923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

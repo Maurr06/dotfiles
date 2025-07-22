@@ -1,0 +1,6 @@
+2025/07/21-21:46:39.994 11e31 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/21-21:46:39.994 11e31 Recovering log #107
+2025/07/21-21:46:39.998 11e31 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000107.log 
+2025/07/21-21:46:42.387 11e32 Level-0 table #112: started
+2025/07/21-21:46:42.473 11e32 Level-0 table #112: 1522375 bytes OK
+2025/07/21-21:46:42.517 11e32 Delete type=0 #107

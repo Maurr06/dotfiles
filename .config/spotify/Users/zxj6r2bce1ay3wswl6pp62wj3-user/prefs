@@ -1,0 +1,4 @@
+connect.mdns_devices="[]"
+connect.dial_devices="[{\"address\":\"192.168.100.72\",\"app_state\":\"MISSING\",\"created_timestamp\":1753107844,\"device_id\":\"eed72d28-fbf2-4850-a447-b4eb0a4f1b72\",\"dial_location_url\":\"http://192.168.100.72:56790/dd.xml\",\"display_name\":\"Sagemcom_DIW362v2-16:55:a9\\u000a\",\"last_seen\":1753109221,\"manufacturer\":\"\",\"model_name\":\"CVA_DIW362-UHD Telecom AR\",\"product_cap\":\"\",\"public_ip\":\"2803:2a00:8:e62e:d9e3:ec62:63dc:6234\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"000000000000\",\"port\":9,\"retries\":80}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.player.volume=43722

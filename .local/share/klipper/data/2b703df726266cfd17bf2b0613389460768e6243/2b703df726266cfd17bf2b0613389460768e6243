@@ -1,0 +1,177 @@
+❯ cat /home/maurod/.cache/hyprland/hyprlandCrashReport1284.txt
+--------------------------------------------
+   Hyprland Crash Report
+--------------------------------------------
+This was an accident, I swear!
+
+Hyprland received signal 11(SEGV)
+Version: 9958d297641b5c84dcff93f9039d80a5ad37ab00
+Tag: v0.49.0
+Date: Thu May 8 20:15:18 2025
+Flags:
+
+System info:
+        System name: Linux
+        Node name: PCARCH
+        Release: 6.15.6-arch1-1
+        Version: #1 SMP PREEMPT_DYNAMIC Thu, 10 Jul 2025 17:10:18 +0000
+
+GPU:
+        01:00.0 VGA compatible controller [0300]: NVIDIA Corporation GP104 [GeForce GTX 1070] [10de:1b81] (rev a1) (prog-if 00 [VGA controller])
+
+
+os-release:
+        NAME="Arch Linux"
+        PRETTY_NAME="Arch Linux"
+        ID=arch
+        BUILD_ID=rolling
+        ANSI_COLOR="38;2;23;147;209"
+        HOME_URL="https://archlinux.org/"
+        DOCUMENTATION_URL="https://wiki.archlinux.org/"
+        SUPPORT_URL="https://bbs.archlinux.org/"
+        BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+        PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+        LOGO=archlinux-logo
+Backtrace:
+        # | hyprland(_Z12getBacktracev+0x61) [0x55c0626a7b31]
+                getBacktrace()
+                ??:?
+        #1 | hyprland(_ZN14NCrashReporter18createAndSaveCrashEi+0x13c7) [0x55c0625f5147]
+                NCrashReporter::createAndSaveCrash(int)
+                ??:?
+        #2 | hyprland(+0x221ff8) [0x55c062562ff8]
+                CCompositor::prepareFallbackOutput()
+                ??:?
+        #3 | /usr/lib/libc.so.6(+0x3def0) [0x7f8398555ef0]
+                ??
+                ??:0
+        #4 | /usr/lib/libc.so.6(+0x16c287) [0x7f8398684287]
+                ??
+                ??:0
+        #5 | hyprland(_ZN15CPointerManager20renderHWCursorBufferEN9Hyprutils6Memory14CSharedPointerINS_20SMonitorPointerStateEEENS2_I8CTextureEE+0x11e9) [0x55c06273a9f9]
+                CPointerManager::renderHWCursorBuffer(Hyprutils::Memory::CSharedPointer<CPointerManager::SMonitorPointerState>, Hyprutils::Memory::CSharedPointer<CTexture>)
+                ??:?
+        #6 | hyprland(_ZN15CPointerManager21attemptHardwareCursorEN9Hyprutils6Memory14CSharedPointerINS_20SMonitorPointerStateEEE+0x1ee) [0x55c06273f60e]
+                CPointerManager::attemptHardwareCursor(Hyprutils::Memory::CSharedPointer<CPointerManager::SMonitorPointerState>)
+                ??:?
+        #7 | hyprland(_ZN15CPointerManager19updateCursorBackendEv+0x466) [0x55c06273fdc6]
+                CPointerManager::updateCursorBackend()
+                ??:?
+        #8 | hyprland(_ZN15CPointerManager13onCursorMovedEv+0x609) [0x55c062740589]
+                CPointerManager::onCursorMoved()
+                ??:?
+        #9 | hyprland(_ZN15CPointerManager4moveERKN9Hyprutils4Math8Vector2DE+0x128) [0x55c0627408a8]
+                CPointerManager::move(Hyprutils::Math::Vector2D const&)
+                ??:?
+        #1 | hyprland(_ZN13CInputManager12onMouseMovedEN8IPointer12SMotionEventE+0x1fa) [0x55c0627968aa]
+                CInputManager::onMouseMoved(IPointer::SMotionEvent)
+                ??:?
+        #11 | hyprland(+0x407d2a) [0x55c062748d2a]
+                CPointerManager::attachTablet(Hyprutils::Memory::CSharedPointer<CTablet>)
+                ??:?
+        #12 | hyprland(_ZNSt17_Function_handlerIFvRKSt3anyEZN9Hyprutils6Signal8CSignalTIJS0_EE16registerListenerESt8functionIFvS0_EEEUlS2_E_E9_M_invokeERKSt9_Any_dataS2_+0x8a) [0x55c06262c35a]
+                std::_Function_handler<void (std::any const&), Hyprutils::Signal::CSignalT<std::any>::registerListener(std::function<void (std::any)>)::{lambda(std::any const&)#1}>::_M_invoke(std::_Any_data const&, std::any const&)
+                ??:?
+        #13 | /usr/lib/libhyprutils.so.7(_ZN9Hyprutils6Signal15CSignalListener12emitInternalEPv+0x2d) [0x7f83991a5c6d]
+                ??
+                ??:0
+        #14 | /usr/lib/libhyprutils.so.7(_ZN9Hyprutils6Signal11CSignalBase12emitInternalEPv+0x195) [0x7f83991a5ec5]
+                ??
+                ??:0
+        #15 | hyprland(+0x335015) [0x55c062676015]
+                std::_Function_handler<void (Aquamarine::IPointer::SSwipeBeginEvent const&), Hyprutils::Signal::CSignalT<Aquamarine::IPointer::SSwipeBeginEvent>::registerListener(std::function<void (std::any)>)::{lambda(Aquamarine::IPointer::SSwipeBeginEvent const&)#1}>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+                ??:?
+        #16 | hyprland(_ZNSt17_Function_handlerIFvRKN10Aquamarine8IPointer10SMoveEventEEZN9Hyprutils6Signal8CSignalTIJS2_EE16registerListenerESt8functionIFvSt3anyEEEUlS4_E_E9_M_invokeERKSt9_Any_dataS4_+0x91) [0x55c0626728e1]
+                std::_Function_handler<void (Aquamarine::IPointer::SMoveEvent const&), Hyprutils::Signal::CSignalT<Aquamarine::IPointer::SMoveEvent>::registerListener(std::function<void (std::any)>)::{lambda(Aquamarine::IPointer::SMoveEvent const&)#1}>::_M_invoke(std::_Any_data const&, Aquamarine::IPointer::SMoveEvent const&)
+                ??:?
+        #17 | /usr/lib/libhyprutils.so.7(_ZN9Hyprutils6Signal15CSignalListener12emitInternalEPv+0x2d) [0x7f83991a5c6d]
+                ??
+                ??:0
+        #18 | /usr/lib/libhyprutils.so.7(_ZN9Hyprutils6Signal11CSignalBase12emitInternalEPv+0x195) [0x7f83991a5ec5]
+                ??
+                ??:0
+        #19 | /usr/lib/libaquamarine.so.8(_ZN10Aquamarine8CSession19handleLibinputEventEP14libinput_event+0x152f) [0x7f839927ef2f]
+                ??
+                ??:0
+        #2 | /usr/lib/libaquamarine.so.8(_ZN10Aquamarine8CSession22dispatchLibinputEventsEv+0x1d4) [0x7f839927fb34]
+                ??
+                ??:0
+        #21 | hyprland(+0x44a4ba) [0x55c06278b4ba]
+                std::any::_Manager_internal<Hyprutils::Memory::CSharedPointer<CIdleInhibitor> >::_S_manage(std::any::_Op, std::any const*, std::any::_Arg*)
+                ??:?
+        #22 | /usr/lib/libwayland-server.so.0(wl_event_loop_dispatch+0x1f2) [0x7f839908b112]
+                ??
+                ??:0
+        #23 | /usr/lib/libwayland-server.so.0(wl_display_run+0x37) [0x7f839908d1f7]
+                ??
+                ??:0
+        #24 | hyprland(_ZN17CEventLoopManager9enterLoopEv+0x1a9) [0x55c06278da89]
+                CEventLoopManager::enterLoop()
+                ??:?
+        #25 | hyprland(main+0x1125) [0x55c06250c0d5]
+                main
+                ??:?
+        #26 | /usr/lib/libc.so.6(+0x276b5) [0x7f839853f6b5]
+                ??
+                ??:0
+        #27 | /usr/lib/libc.so.6(__libc_start_main+0x89) [0x7f839853f769]
+                ??
+                ??:0
+        #28 | hyprland(_start+0x25) [0x55c06255ed05]
+                _start
+                ??:?
+
+
+Log tail:
+[LOG] Searching for matching rules for org.kde.dolphin (title: /home/maurod — Dolphin)
+[LOG] Window rule suppressevent maximize ->  class:.* matched [Window 55c0892799a0: title: "/home/maurod — Dolphin"]
+[LOG] Searching for matching rules for org.kde.dolphin (title: /home/maurod — Dolphin)
+[LOG] Window rule suppressevent maximize ->  class:.* matched [Window 55c0892799a0: title: "/home/maurod — Dolphin"]
+[LOG] Keybind triggered, calling dispatcher (64, mouse:272, 0, mouse)
+[LOG] [AQ] [libinput] event4  - debounce state: DEBOUNCE_STATE_IS_UP_DETECTING_SPURIOUS → DEBOUNCE_EVENT_TIMEOUT_SHORT → DEBOUNCE_STATE_IS_UP_WAITING
+
+[LOG] [AQ] [libinput] event4  - debounce state: DEBOUNCE_STATE_IS_UP_WAITING → DEBOUNCE_EVENT_TIMEOUT → DEBOUNCE_STATE_IS_UP
+
+[LOG] [CXDGSurfaceResource] xdg_surface 55c08920a4e0 requests geometry 0x0 1876x1036
+[LOG] [CWLCompositorResource] New wl_region with id 42 at 55c088b3a190
+[LOG] [CXDGSurfaceResource] xdg_surface 55c08920a4e0 requests geometry 0x0 1876x1036
+[LOG] cursorImage request: shape 9 -> text
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 138
+[LOG] cursorImage request: shape 1 -> default
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 131
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 138
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 131
+[LOG] cursorImage request: shape 9 -> text
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 131
+[LOG] cursorImage request: shape 1 -> default
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 138
+[LOG] cursorImage request: shape 9 -> text
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 131
+[LOG] [AQ] [libinput] event4  - debounce state: DEBOUNCE_STATE_IS_UP → DEBOUNCE_EVENT_PRESS → DEBOUNCE_STATE_IS_DOWN_WAITING
+
+[LOG] Keybind triggered, calling dispatcher (64, mouse:272, 0, mouse)
+[LOG] Removing last node (dwindle)
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 138
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 138
+[LOG] Searching for matching rules for org.kde.dolphin (title: /home/maurod — Dolphin)
+[LOG] Window rule suppressevent maximize ->  class:.* matched [Window 55c0892799a0: title: "/home/maurod — Dolphin"]
+[LOG] Searching for matching rules for org.kde.dolphin (title: /home/maurod — Dolphin)
+[LOG] Window rule suppressevent maximize ->  class:.* matched [Window 55c0892799a0: title: "/home/maurod — Dolphin"]
+[LOG] [CXDGSurfaceResource] xdg_surface 55c08920a4e0 requests geometry 0x0 1592x879
+[LOG] [CWLCompositorResource] New wl_region with id 41 at 55c086dba070
+[LOG] [CXDGSurfaceResource] xdg_surface 55c08920a4e0 requests geometry 0x0 1592x879
+[LOG] [AQ] [libinput] event4  - debounce state: DEBOUNCE_STATE_IS_DOWN_WAITING → DEBOUNCE_EVENT_TIMEOUT → DEBOUNCE_STATE_IS_DOWN
+
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 131
+[LOG] [AQ] DRM Dumb: Allocated a new buffer with primeFD 104, size [Vector2D: x: 256, y: 256] and format AR24
+[LOG] [AQ] DRM Dumb: Allocated a new buffer with primeFD 106, size [Vector2D: x: 256, y: 256] and format AR24
+[LOG] [AQ] Swapchain: Reconfigured a swapchain to [Vector2D: x: 256, y: 256] AR24 of length 2
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 161
+[LOG] Searching for matching rules for org.kde.dolphin (title: /home/maurod — Dolphin)
+[LOG] Window rule suppressevent maximize ->  class:.* matched [Window 55c0892799a0: title: "/home/maurod — Dolphin"]
+[LOG] [CXDGSurfaceResource] xdg_surface 55c08920a4e0 requests geometry 0x0 1592x879
+[LOG] [AQ] drm: Cursor buffer imported into KMS with id 162
+[LOG] [AQ] GBM: Allocated a new buffer with size [Vector2D: x: 48, y: 48] and format AR24 with modifier 216172782127263763 aka BLOCK_LINEAR_2D,HEIGHT=3,KIND=219,GEN=0,SECTOR=1,COMPRESSION=1
+[LOG] [AQ] GBM: Allocated a new buffer with size [Vector2D: x: 48, y: 48] and format AR24 with modifier 216172782127263763 aka BLOCK_LINEAR_2D,HEIGHT=3,KIND=219,GEN=0,SECTOR=1,COMPRESSION=1
+[LOG] [AQ] Swapchain: Reconfigured a swapchain to [Vector2D: x: 48, y: 48] AR24 of length 2
+░▒▓ ~ ─────────────────────────────────────────────────────────────────────────────────────────────

@@ -1,0 +1,122 @@
+2025/07/20-01:05:55.584 2cfda Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-01:05:55.584 2cfda Recovering log #1134
+2025/07/20-01:05:55.586 2cfda Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001134.log 
+2025/07/20-01:05:56.194 2cfd9 Level-0 table #1147: started
+2025/07/20-01:05:56.251 2cfd9 Level-0 table #1147: 66410 bytes OK
+2025/07/20-01:05:56.283 2cfd9 Delete type=0 #1134
+2025/07/20-01:05:56.283 2cfd9 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at '\x00#\x00\x00\x05' @ 4173478 : 1
+2025/07/20-01:05:56.283 2cfd9 Compacting 1@0 + 1@1 files
+2025/07/20-01:05:56.329 2cfd9 Generated table #1148@0: 22348 keys, 195524 bytes
+2025/07/20-01:05:56.363 2cfd9 Generated table #1149@0: 1077 keys, 28455 bytes
+2025/07/20-01:05:56.363 2cfd9 Compacted 1@0 + 1@1 files => 223979 bytes
+2025/07/20-01:05:56.395 2cfd9 compacted to: files[ 0 2 39 0 0 0 0 ]
+2025/07/20-01:05:56.395 2cfd9 Delete type=2 #1147
+2025/07/20-01:05:56.395 2cfd9 Manual compaction at level-0 from '\x00#\x00\x00\x05' @ 4173478 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/20-01:05:58.404 2cfdb Compacting 1@1 + 1@2 files
+2025/07/20-01:05:58.499 2cfdb Generated table #1150@1: 40424 keys, 2218545 bytes
+2025/07/20-01:05:58.499 2cfdb Compacted 1@1 + 1@2 files => 2218545 bytes
+2025/07/20-01:05:58.529 2cfdb compacted to: files[ 0 1 39 0 0 0 0 ]
+2025/07/20-01:05:58.530 2cfdb Delete type=2 #1148
+2025/07/20-01:05:58.530 2cfdb Delete type=2 #1136
+2025/07/20-01:05:58.530 2cfdb Delete type=2 #1131
+2025/07/20-01:06:02.357 2cfda Compacting 1@1 + 5@2 files
+2025/07/20-01:06:02.471 2cfda Generated table #1151@1: 15867 keys, 2225360 bytes
+2025/07/20-01:06:02.560 2cfda Generated table #1152@1: 39818 keys, 2170987 bytes
+2025/07/20-01:06:02.672 2cfda Generated table #1153@1: 103424 keys, 2254122 bytes
+2025/07/20-01:06:02.772 2cfda Generated table #1154@1: 103330 keys, 2254873 bytes
+2025/07/20-01:06:02.816 2cfda Generated table #1155@1: 35473 keys, 789806 bytes
+2025/07/20-01:06:02.816 2cfda Compacted 1@1 + 5@2 files => 9695148 bytes
+2025/07/20-01:06:02.850 2cfda compacted to: files[ 0 0 39 0 0 0 0 ]
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1143
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1142
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1141
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1144
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1149
+2025/07/20-01:06:02.850 2cfda Delete type=2 #1140
+2025/07/20-01:06:11.622 2cfda Level-0 table #1157: started
+2025/07/20-01:06:11.688 2cfda Level-0 table #1157: 1134947 bytes OK
+2025/07/20-01:06:11.729 2cfda Delete type=0 #1146
+2025/07/20-01:06:12.631 2cfe8 Compacting 1@0 + 0@1 files
+2025/07/20-01:06:12.688 2cfe8 Generated table #1158@0: 21402 keys, 374394 bytes
+2025/07/20-01:06:12.722 2cfe8 Generated table #1159@0: 34 keys, 4244 bytes
+2025/07/20-01:06:12.756 2cfe8 Generated table #1160@0: 7648 keys, 218686 bytes
+2025/07/20-01:06:12.757 2cfe8 Compacted 1@0 + 0@1 files => 597324 bytes
+2025/07/20-01:06:12.787 2cfe8 compacted to: files[ 0 3 39 0 0 0 0 ]
+2025/07/20-01:06:12.788 2cfe8 Delete type=2 #1157
+2025/07/20-01:06:13.671 2cfda Compacting 1@1 + 7@2 files
+2025/07/20-01:06:13.753 2cfda Generated table #1161@1: 30831 keys, 2233713 bytes
+2025/07/20-01:06:13.853 2cfda Generated table #1162@1: 122192 keys, 2307327 bytes
+2025/07/20-01:06:13.942 2cfda Generated table #1163@1: 15859 keys, 2227809 bytes
+2025/07/20-01:06:14.041 2cfda Generated table #1164@1: 37647 keys, 2168823 bytes
+2025/07/20-01:06:14.163 2cfda Generated table #1165@1: 103270 keys, 2254606 bytes
+2025/07/20-01:06:14.296 2cfda Generated table #1166@1: 103021 keys, 2253562 bytes
+2025/07/20-01:06:14.374 2cfda Generated table #1167@1: 45324 keys, 1004216 bytes
+2025/07/20-01:06:14.374 2cfda Compacted 1@1 + 7@2 files => 14450056 bytes
+2025/07/20-01:06:14.441 2cfda compacted to: files[ 0 2 39 0 0 0 0 ]
+2025/07/20-01:06:14.442 2cfda Delete type=2 #1153
+2025/07/20-01:06:14.442 2cfda Delete type=2 #1154
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1160
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1139
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1152
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1138
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1155
+2025/07/20-01:06:14.443 2cfda Delete type=2 #1151
+2025/07/20-01:06:14.702 2cfd9 Compacting 1@1 + 8@2 files
+2025/07/20-01:06:14.818 2cfd9 Generated table #1168@1: 42136 keys, 2221759 bytes
+2025/07/20-01:06:14.973 2cfd9 Generated table #1169@1: 53248 keys, 2216345 bytes
+2025/07/20-01:06:15.095 2cfd9 Generated table #1170@1: 16944 keys, 2179592 bytes
+2025/07/20-01:06:15.184 2cfd9 Generated table #1171@1: 2410 keys, 2164041 bytes
+2025/07/20-01:06:15.262 2cfd9 Generated table #1172@1: 2965 keys, 2159150 bytes
+2025/07/20-01:06:15.362 2cfd9 Generated table #1173@1: 2192 keys, 2154941 bytes
+2025/07/20-01:06:15.462 2cfd9 Generated table #1174@1: 1589 keys, 2147358 bytes
+2025/07/20-01:06:15.562 2cfd9 Generated table #1175@1: 2709 keys, 2116572 bytes
+2025/07/20-01:06:15.562 2cfd9 Compacted 1@1 + 8@2 files => 17359758 bytes
+2025/07/20-01:06:15.601 2cfd9 compacted to: files[ 0 1 39 0 0 0 0 ]
+2025/07/20-01:06:15.603 2cfd9 Delete type=2 #1132
+2025/07/20-01:06:15.603 2cfd9 Delete type=2 #1095
+2025/07/20-01:06:15.603 2cfd9 Delete type=2 #1089
+2025/07/20-01:06:15.603 2cfd9 Delete type=2 #1150
+2025/07/20-01:06:15.604 2cfd9 Delete type=2 #1133
+2025/07/20-01:06:15.604 2cfd9 Delete type=2 #1092
+2025/07/20-01:06:15.604 2cfd9 Delete type=2 #1094
+2025/07/20-01:06:15.604 2cfd9 Delete type=2 #1093
+2025/07/20-01:06:15.604 2cfd9 Delete type=2 #1158
+2025/07/20-01:06:25.024 2cfda Compacting 1@1 + 11@2 files
+2025/07/20-01:06:25.117 2cfda Generated table #1176@1: 3273 keys, 2159513 bytes
+2025/07/20-01:06:25.117 2cfda Level-0 table #1178: started
+2025/07/20-01:06:25.172 2cfda Level-0 table #1178: 1200263 bytes OK
+2025/07/20-01:06:25.201 2cfd9 Current memtable full; waiting...
+2025/07/20-01:06:25.212 2cfda Delete type=0 #1156
+2025/07/20-01:06:25.212 2cfda Level-0 table #1181: started
+2025/07/20-01:06:25.273 2cfda Level-0 table #1181: 1292698 bytes OK
+2025/07/20-01:06:25.311 2cfda Delete type=0 #1177
+2025/07/20-01:06:25.410 2cfda Generated table #1179@1: 3543 keys, 2161351 bytes
+2025/07/20-01:06:25.410 2cfda Level-0 table #1183: started
+2025/07/20-01:06:25.464 2cfd9 Current memtable full; waiting...
+2025/07/20-01:06:25.518 2cfda Level-0 table #1183: 1320947 bytes OK
+2025/07/20-01:06:25.729 2cfda Delete type=0 #1180
+2025/07/20-01:06:25.730 2cfda Level-0 table #1186: started
+2025/07/20-01:06:25.817 2cfda Level-0 table #1186: 1273908 bytes OK
+2025/07/20-01:06:25.875 2cfda Delete type=0 #1182
+2025/07/20-01:06:25.962 2cfda Generated table #1184@1: 4165 keys, 2152202 bytes
+2025/07/20-01:06:25.962 2cfda Level-0 table #1188: started
+2025/07/20-01:06:26.029 2cfda Level-0 table #1188: 1346542 bytes OK
+2025/07/20-01:06:26.085 2cfda Delete type=0 #1185
+2025/07/20-01:06:26.173 2cfda Generated table #1189@1: 3546 keys, 2159043 bytes
+2025/07/20-01:06:26.174 2cfda Level-0 table #1191: started
+2025/07/20-01:06:26.218 2cfda Level-0 table #1191: 913952 bytes OK
+2025/07/20-01:06:26.251 2cfda Delete type=0 #1187
+2025/07/20-01:06:26.318 2cfda Generated table #1192@1: 3455 keys, 2161049 bytes
+2025/07/20-01:06:26.396 2cfda Generated table #1193@1: 20516 keys, 2191847 bytes
+2025/07/20-01:06:26.485 2cfda Generated table #1194@1: 44590 keys, 2209897 bytes
+2025/07/20-01:06:26.574 2cfda Generated table #1195@1: 25842 keys, 2273754 bytes
+2025/07/20-01:06:26.664 2cfda Generated table #1196@1: 29680 keys, 2250066 bytes
+2025/07/20-01:06:26.753 2cfda Generated table #1197@1: 24954 keys, 2274890 bytes
+2025/07/20-01:06:26.808 2cfda Generated table #1198@1: 11457 keys, 985531 bytes
+2025/07/20-01:06:26.809 2cfda Compacted 1@1 + 11@2 files => 22979143 bytes
+2025/07/20-01:06:26.864 2cfda compacted to: files[ 6 0 39 0 0 0 0 ]
+2025/07/20-01:06:26.865 2cfda Compacting 6@0 + 0@1 files
+2025/07/20-01:06:27.110 2cfda Generated table #1199@0: 57162 keys, 1592656 bytes
+2025/07/20-01:06:27.178 2cfda Generated table #1200@0: 2722 keys, 1736892 bytes
+2025/07/20-01:06:27.267 2cfda Generated table #1201@0: 20686 keys, 1912344 bytes
+2025/07/20-01:06:27.267 2cfda compacted to: files[ 6 0 39 0 0 0 0 ]

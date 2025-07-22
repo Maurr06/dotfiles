@@ -1,0 +1,13 @@
+2025-07-21 21:07:53.339 [info] Extension host with pid 55481 started
+2025-07-21 21:07:53.405 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-21 21:07:53.433 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-21 21:07:53.529 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-21 21:07:53.530 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-07-21 21:07:53.540 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-21 21:07:53.578 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-21 21:07:53.691 [info] Eager extensions activated
+2025-07-21 21:07:53.696 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 21:07:53.698 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 21:07:53.714 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-07-21 21:11:25.026 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-21 21:11:25.038 [info] Extension host with pid 55481 exiting with code 0

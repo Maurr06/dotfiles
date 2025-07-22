@@ -1,0 +1,25 @@
+7/20/2025, 1:06:44 AM GMT-3 0: 
+
+----------------------------------------------
+7/20/2025, 1:06:45 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.102"}, modulepath: /home/maurod/.config/discord/0.0.102/modules
+7/20/2025, 1:06:45 AM GMT-3 2: ✅ webContents.created web1 "Discord Updater"
+7/20/2025, 1:06:45 AM GMT-3 3: ✅ window.created win1 "Discord Updater"
+7/20/2025, 1:06:45 AM GMT-3 4: ✅ webContents.did-finish-load web1
+7/20/2025, 1:06:51 AM GMT-3 5: ✅ webContents.created web2 ""
+7/20/2025, 1:06:51 AM GMT-3 6: ✅ window.created win2 "Discord"
+7/20/2025, 1:06:52 AM GMT-3 7: ✅ webContents.did-finish-load web2
+7/20/2025, 1:06:53 AM GMT-3 8: window.close win1
+7/20/2025, 1:06:53 AM GMT-3 9: webContents.destroyed web1
+7/20/2025, 1:06:53 AM GMT-3 10: window.closed win1
+7/20/2025, 1:08:28 AM GMT-3 11: window.close win2
+7/20/2025, 2:02:23 AM GMT-3 0: 
+
+----------------------------------------------
+7/20/2025, 2:02:36 AM GMT-3 12: window.close win2
+7/20/2025, 2:20:17 AM GMT-3 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}

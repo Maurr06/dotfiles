@@ -1,0 +1,1 @@
+alias killtty2='sudo pkill -t tty2'

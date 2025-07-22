@@ -1,0 +1,260 @@
+2025-07-19 16:26:37.105 [info] [main] Log level: Info
+2025-07-19 16:26:37.105 [info] [main] Validating found git in: "git"
+2025-07-19 16:26:37.105 [info] [main] Using git "2.50.1" from "git"
+2025-07-19 16:26:37.105 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-19 16:26:37.105 [info] > git rev-parse --show-toplevel [7ms]
+2025-07-19 16:26:37.105 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-19 16:26:37.105 [info] [Model][openRepository] Opened repository (path): /home/maurod/Dotfiles
+2025-07-19 16:26:37.105 [info] [Model][openRepository] Opened repository (real path): /home/maurod/Dotfiles
+2025-07-19 16:26:37.105 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-19 16:26:37.105 [info] > git config --get commit.template [6ms]
+2025-07-19 16:26:37.105 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-19 16:26:37.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:26:37.105 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:26:37.105 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-19 16:26:37.105 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-19 16:26:37.105 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-07-19 16:26:37.105 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [8ms]
+2025-07-19 16:26:37.126 [info] > git status -z -uall [35ms]
+2025-07-19 16:26:37.151 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-07-19 16:26:37.157 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2025-07-19 16:26:37.157 [warning] [Git][config] git config failed: Failed to execute git
+2025-07-19 16:26:37.161 [info] > git config --get commit.template [10ms]
+2025-07-19 16:26:37.165 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2025-07-19 16:26:37.172 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-07-19 16:26:37.176 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:26:37.176 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [8ms]
+2025-07-19 16:26:37.179 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-07-19 16:26:37.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2025-07-19 16:26:37.189 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-07-19 16:26:37.201 [info] > git status -z -uall [19ms]
+2025-07-19 16:26:37.207 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:26:37.229 [info] > git config --add --local branch.main.vscode-merge-base origin/main [40ms]
+2025-07-19 16:26:37.238 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2025-07-19 16:26:37.242 [info] > git config --get commit.template [4ms]
+2025-07-19 16:26:37.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-07-19 16:26:37.254 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-07-19 16:26:37.254 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2025-07-19 16:26:37.260 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:26:37.260 [info] > git diff --name-status -z --diff-filter=ADMR 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e...refs/remotes/origin/main [3ms]
+2025-07-19 16:26:37.261 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:26:37.267 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:26:37.283 [info] > git status -z -uall [19ms]
+2025-07-19 16:26:37.587 [info] > git check-ignore -v -z --stdin [4ms]
+2025-07-19 16:26:38.375 [info] > git config --get commit.template [3ms]
+2025-07-19 16:26:38.375 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:26:38.378 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:26:38.378 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:26:38.385 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:26:38.400 [info] > git status -z -uall [19ms]
+2025-07-19 16:26:46.295 [info] > git ls-files --stage -- .config/waybar/config [1ms]
+2025-07-19 16:26:46.299 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:26:46.322 [info] > git show --textconv :.config/waybar/config [32ms]
+2025-07-19 16:26:48.007 [info] > git blame --root --incremental 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e -- .config/waybar/config [4ms]
+2025-07-19 16:26:52.888 [info] > git config --get commit.template [3ms]
+2025-07-19 16:26:52.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:26:52.891 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:26:52.892 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:26:52.898 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:26:52.917 [info] > git status -z -uall [23ms]
+2025-07-19 16:27:27.190 [info] > git config --get commit.template [4ms]
+2025-07-19 16:27:27.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:27:27.198 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:27:27.198 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:27:27.206 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:27:27.222 [info] > git status -z -uall [20ms]
+2025-07-19 16:27:32.896 [info] > git check-ignore -v -z --stdin [1ms]
+2025-07-19 16:27:33.449 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [15ms]
+2025-07-19 16:27:33.451 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [4ms]
+2025-07-19 16:27:33.467 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [4ms]
+2025-07-19 16:27:37.100 [info] > git blame --root --incremental 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e -- .config/waybar/scripts/refresh.sh [3ms]
+2025-07-19 16:27:39.633 [info] > git config --get commit.template [3ms]
+2025-07-19 16:27:39.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:27:39.636 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:27:39.636 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:27:39.643 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-19 16:27:39.658 [info] > git status -z -uall [19ms]
+2025-07-19 16:27:40.701 [info] > git show --textconv :.config/waybar/config [4ms]
+2025-07-19 16:27:40.701 [info] > git ls-files --stage -- .config/waybar/config [0ms]
+2025-07-19 16:27:40.705 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:28:48.601 [info] > git config --get commit.template [7ms]
+2025-07-19 16:28:48.601 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:28:48.606 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:28:48.607 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:28:48.615 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:28:48.631 [info] > git status -z -uall [20ms]
+2025-07-19 16:29:02.387 [info] > git config --get commit.template [3ms]
+2025-07-19 16:29:02.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:29:02.390 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:29:02.390 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:29:02.397 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:29:02.412 [info] > git status -z -uall [19ms]
+2025-07-19 16:30:52.577 [info] > git config --get commit.template [5ms]
+2025-07-19 16:30:52.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:30:52.582 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:30:52.583 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:30:52.591 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:30:52.606 [info] > git status -z -uall [19ms]
+2025-07-19 16:31:30.089 [info] > git config --get commit.template [5ms]
+2025-07-19 16:31:30.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:31:30.093 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:31:30.093 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:31:30.106 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-19 16:31:30.123 [info] > git status -z -uall [24ms]
+2025-07-19 16:31:36.292 [info] > git show --textconv :.config/waybar/config [4ms]
+2025-07-19 16:31:36.293 [info] > git ls-files --stage -- .config/waybar/config [1ms]
+2025-07-19 16:31:36.298 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:31:38.751 [info] > git config --get commit.template [3ms]
+2025-07-19 16:31:38.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:31:38.755 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:31:38.756 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:31:38.762 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:31:38.778 [info] > git status -z -uall [20ms]
+2025-07-19 16:32:41.966 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [5ms]
+2025-07-19 16:32:41.966 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [1ms]
+2025-07-19 16:32:41.970 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [1ms]
+2025-07-19 16:33:25.168 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [5ms]
+2025-07-19 16:33:25.169 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [2ms]
+2025-07-19 16:33:25.172 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [1ms]
+2025-07-19 16:33:51.375 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [5ms]
+2025-07-19 16:33:51.375 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [1ms]
+2025-07-19 16:33:51.380 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [1ms]
+2025-07-19 16:33:55.981 [info] > git config --get commit.template [3ms]
+2025-07-19 16:33:55.982 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:33:55.985 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:33:55.985 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:33:55.992 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:33:56.007 [info] > git status -z -uall [19ms]
+2025-07-19 16:33:56.814 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [6ms]
+2025-07-19 16:33:56.815 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [1ms]
+2025-07-19 16:33:56.821 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [1ms]
+2025-07-19 16:33:57.604 [info] > git show --textconv :.config/waybar/scripts/select.sh [15ms]
+2025-07-19 16:33:57.606 [info] > git ls-files --stage -- .config/waybar/scripts/select.sh [4ms]
+2025-07-19 16:33:57.618 [info] > git cat-file -s 5415c7d5fcb9f97ae92edff6e3fe235d3c7f0792 [2ms]
+2025-07-19 16:33:59.167 [info] > git blame --root --incremental 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e -- .config/waybar/scripts/select.sh [2ms]
+2025-07-19 16:34:03.088 [info] > git config --get commit.template [1ms]
+2025-07-19 16:34:03.091 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-07-19 16:34:03.095 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:34:03.096 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:34:03.102 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:34:03.117 [info] > git status -z -uall [19ms]
+2025-07-19 16:34:45.993 [info] > git show --textconv :.config/waybar/config [5ms]
+2025-07-19 16:34:45.993 [info] > git ls-files --stage -- .config/waybar/config [1ms]
+2025-07-19 16:34:45.997 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:35:15.111 [info] > git config --get commit.template [4ms]
+2025-07-19 16:35:15.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:35:15.115 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:35:15.115 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:35:15.122 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:35:15.138 [info] > git status -z -uall [20ms]
+2025-07-19 16:35:20.748 [info] > git show --textconv :.config/waybar/scripts/refresh.sh [14ms]
+2025-07-19 16:35:20.751 [info] > git ls-files --stage -- .config/waybar/scripts/refresh.sh [4ms]
+2025-07-19 16:35:20.767 [info] > git cat-file -s eff90476b21296574bb41dfcdc154d9e6b2127e0 [4ms]
+2025-07-19 16:35:25.549 [info] > git config --get commit.template [3ms]
+2025-07-19 16:35:25.549 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-07-19 16:35:25.552 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:35:25.553 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:35:25.560 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:35:25.575 [info] > git status -z -uall [19ms]
+2025-07-19 16:35:57.840 [info] > git show --textconv :.config/waybar/config [3ms]
+2025-07-19 16:35:57.841 [info] > git ls-files --stage -- .config/waybar/config [1ms]
+2025-07-19 16:35:57.845 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:35:58.229 [info] > git config --get commit.template [4ms]
+2025-07-19 16:35:58.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-07-19 16:35:58.258 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:35:58.261 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-07-19 16:35:58.292 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-07-19 16:35:58.323 [info] > git status -z -uall [49ms]
+2025-07-19 16:36:34.332 [info] > git config --get commit.template [4ms]
+2025-07-19 16:36:34.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:36:34.336 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:36:34.337 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:36:34.344 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:36:34.359 [info] > git status -z -uall [19ms]
+2025-07-19 16:36:53.737 [info] > git config --get commit.template [5ms]
+2025-07-19 16:36:53.737 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:36:53.741 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:36:53.742 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:36:53.749 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:36:53.764 [info] > git status -z -uall [20ms]
+2025-07-19 16:36:58.776 [info] > git config --get commit.template [3ms]
+2025-07-19 16:36:58.777 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:36:58.779 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:36:58.780 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-19 16:36:58.786 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:36:58.803 [info] > git status -z -uall [21ms]
+2025-07-19 16:39:29.991 [info] > git show --textconv :.config/waybar/config [4ms]
+2025-07-19 16:39:29.992 [info] > git ls-files --stage -- .config/waybar/config [2ms]
+2025-07-19 16:39:29.996 [info] > git cat-file -s bf0d267a6abdbd2241c5a886789be239d367db80 [1ms]
+2025-07-19 16:40:41.494 [info] > git config --get commit.template [3ms]
+2025-07-19 16:40:41.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:40:41.498 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:40:41.498 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:40:41.505 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:40:41.522 [info] > git status -z -uall [21ms]
+2025-07-19 16:41:22.312 [info] > git config --get commit.template [3ms]
+2025-07-19 16:41:22.313 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-19 16:41:22.316 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 16:41:22.316 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-19 16:41:22.323 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 16:41:22.338 [info] > git status -z -uall [19ms]
+2025-07-19 17:02:45.045 [info] > git show --textconv :.config/waybar/style.css [4ms]
+2025-07-19 17:02:45.045 [info] > git ls-files --stage -- .config/waybar/style.css [0ms]
+2025-07-19 17:02:45.049 [info] > git cat-file -s 504d788af967d25de9c3ebde3a6d71953483f3a3 [1ms]
+2025-07-19 17:02:52.099 [info] > git blame --root --incremental 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e -- .config/waybar/style.css [7ms]
+2025-07-19 17:02:57.253 [info] > git check-ignore -v -z --stdin [1ms]
+2025-07-19 17:03:39.946 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-19 17:03:39.946 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:08.758 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-19 17:04:08.758 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:14.443 [info] > git rev-parse --show-toplevel [0ms]
+2025-07-19 17:04:14.443 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:24.553 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-19 17:04:24.553 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:36.454 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-19 17:04:36.454 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:43.358 [info] > git rev-parse --show-toplevel [0ms]
+2025-07-19 17:04:43.359 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:45.955 [info] [main] Log level: Info
+2025-07-19 17:04:45.955 [info] [main] Validating found git in: "git"
+2025-07-19 17:04:45.955 [info] [main] Using git "2.50.1" from "git"
+2025-07-19 17:04:45.955 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-19 17:04:45.955 [info] > git rev-parse --show-toplevel [7ms]
+2025-07-19 17:04:45.955 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2025-07-19 17:04:45.955 [info] [Model][openRepository] Opened repository (path): /home/maurod/Dotfiles
+2025-07-19 17:04:45.955 [info] [Model][openRepository] Opened repository (real path): /home/maurod/Dotfiles
+2025-07-19 17:04:45.956 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-19 17:04:45.956 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-19 17:04:45.956 [info] > git config --get commit.template [8ms]
+2025-07-19 17:04:45.967 [info] > git rev-parse --show-toplevel [6ms]
+2025-07-19 17:04:45.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-07-19 17:04:45.975 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 17:04:45.976 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-19 17:04:45.988 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2025-07-19 17:04:45.998 [info] > git rev-parse --show-toplevel [19ms]
+2025-07-19 17:04:45.998 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-19 17:04:46.002 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-07-19 17:04:46.019 [info] > git status -z -uall [27ms]
+2025-07-19 17:04:46.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-07-19 17:04:46.056 [info] > git config --get --local branch.main.vscode-merge-base [5ms]
+2025-07-19 17:04:46.060 [info] > git config --get commit.template [21ms]
+2025-07-19 17:04:46.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [6ms]
+2025-07-19 17:04:46.092 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-07-19 17:04:46.099 [info] > git diff --name-status -z --diff-filter=ADMR 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e...refs/remotes/origin/main [4ms]
+2025-07-19 17:04:46.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-07-19 17:04:46.104 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/maurod/Dotfiles/.git/refs/remotes/origin/main'
+2025-07-19 17:04:46.107 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-07-19 17:04:46.115 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-19 17:04:46.129 [info] > git status -z -uall [19ms]
+2025-07-19 17:04:46.462 [info] > git check-ignore -v -z --stdin [1ms]
+2025-07-19 17:04:47.310 [info] > git show --textconv :.config/waybar/style.css [4ms]
+2025-07-19 17:04:47.310 [info] > git ls-files --stage -- .config/waybar/style.css [1ms]
+2025-07-19 17:04:47.315 [info] > git cat-file -s 504d788af967d25de9c3ebde3a6d71953483f3a3 [1ms]
+2025-07-19 17:04:47.331 [info] > git blame --root --incremental 09f2315ca81e6dc991b0e9d2f8c0c20db47d1a7e -- .config/waybar/style.css [3ms]

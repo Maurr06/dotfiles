@@ -1,0 +1,28 @@
+2025-07-19 16:26:36.264 [info] Started local extension host with pid 13171.
+2025-07-19 16:26:36.277 [info] ComputeTargetPlatform: linux-x64
+2025-07-19 16:26:36.307 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-19 16:26:38.953 [info] [perf] Render performance baseline is 53ms
+2025-07-19 17:02:56.748 [error] Error: The editor could not be opened because the file was not found.
+    at jxe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:120026)
+    at async jxe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:119184)
+    at async f7e.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19757)
+    at async f7e.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18312)
+    at async f7e.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17394)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23340
+    at async _Xe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1817:30600)
+    at async _Xe.openCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1817:21813)
+    at async CZe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1879:634)
+    at async SZe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1879:1689)
+2025-07-19 17:03:11.159 [error] Error: The editor could not be opened because the file was not found.
+    at jxe.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:120026)
+    at async jxe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2510:119184)
+    at async f7e.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19757)
+    at async f7e.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:18312)
+    at async f7e.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:17394)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:797:23340
+    at async _Xe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1817:30600)
+    at async _Xe.openCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1817:21813)
+    at async CZe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1879:634)
+    at async SZe.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1879:1689)
+2025-07-19 17:04:45.175 [info] Started local extension host with pid 19278.
+2025-07-19 17:04:45.963 [error] No registered selector for ID: ms-vscode.npm-command

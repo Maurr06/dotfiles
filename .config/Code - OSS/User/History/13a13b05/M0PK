@@ -1,0 +1,208 @@
+# ------------------------------------------------------------- #
+# THEME - TEMAS. https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+# ------------------------------------------------------------- #
+
+
+# ZSH_THEME="random"      # echo $RANDOM_THEME
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" )
+
+
+# Activar powerlevel10k.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
+# Cargar config de p10k. Ejecutar `p10k configure` o editar ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+
+
+
+# ------------------------------------------------------------- #
+# ALIAS. 
+# ------------------------------------------------------------- #
+
+alias sunseton='hyprctl hyprsunset temperature 1000'
+alias sunsetoff='pkill -f hyprsunset-autofilter.sh; hyprctl hyprsunset identity'
+
+alias killtty1='sudo pkill -t tty1'
+alias killtty2='sudo pkill -t tty2'
+
+alias fman='compgen -c | fzf | xargs man'
+
+
+buscaryt() {
+  if [ -z "$1" ]; then
+    echo "Uso: buscaryt término_de_búsqueda"
+    return 1
+  fi
+
+  echo "Buscando..."
+  results=$(yt-dlp "ytsearch5:$*" --print "%(title)s | %(id)s" --quiet)
+
+  if [ -z "$results" ]; then
+    echo "No se encontraron resultados."
+    return 1
+  fi
+
+  selected=$(echo "$results" | fzf --prompt="🎥 Elegí un video: " --height=10 --layout=reverse --border)
+  [ -z "$selected" ] && echo "❌ Cancelado." && return 1
+
+  video_id="${selected##* | }"
+  video_title="${selected%% | *}"
+
+  echo "Reproduciendo: $video_title"
+  (
+  mpv --quiet --no-terminal --really-quiet \
+      --ytdl-format="bv[height<=480]+ba/b[height<=480]" \
+      --cache=yes --cache-secs=5 \
+      "https://www.youtube.com/watch?v=$video_id"
+  ) >/dev/null 2>&1 & disown
+
+}
+
+
+veryt() {
+  if [ -z "$1" ]; then
+    echo "Uso: buscaryt término_de_búsqueda"
+    return 1
+  fi
+
+  echo "🔍 Buscando \"$*\"..."
+
+  result=$(yt-dlp "ytsearch1:$*" --print "%(title)s | %(id)s" --quiet)
+
+  if [ -z "$result" ]; then
+    echo "❌ No se encontró ningún video."
+    return 1
+  fi
+
+  video_title="${result%% | *}"
+  video_id="${result##* | }"
+
+  echo "🎬 Reproduciendo: $video_title"
+  (
+  mpv --quiet --no-terminal --really-quiet \
+      --ytdl-format="bv[height<=480]+ba/b[height<=480]" \
+      --cache=yes --cache-secs=5 \
+      "https://www.youtube.com/watch?v=$video_id"
+  ) >/dev/null 2>&1 & disown
+
+}
+
+
+
+
+
+# ------------------------------------------------------------- #
+# Variables EXPORT. 
+# ------------------------------------------------------------- #
+
+# Path to your Oh My Zsh installation.
+export ZSH="$HOME/.oh-my-zsh"
+
+export PS1="%n@%m:%~$ "
+
+export GTK_THEME=Adwaita-dark
+
+export LIBVA_DRIVER_NAME=nvidia
+export XDG_SESSION_TYPE=wayland
+export GBM_BACKEND=nvidia-drm
+export __GLX_VENDOR_LIBRARY_NAME=nvidia
+export WLR_NO_HARDWARE_CURSORS=1
+
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+
+
+
+
+# ------------------------------------------------------------- #
+# Otras configuraciones. 
+# ------------------------------------------------------------- #
+
+# Standard plugins can be found in $ZSH/plugins/
+plugins=(
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  zsh-interactive-cd
+)
+
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
+
+
+
+# CASE_SENSITIVE="true"
+# HYPHEN_INSENSITIVE="true"
+
+
+# "HISTORY" muestra fecha de ejecucion segun formato strftime.
+HIST_STAMPS="%d/%m/%Y %H:%M:%S"
+
+
+
+
+
+# Preferred editor for local and remote sessions (SSH)
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='code'
+# else
+#   export EDITOR='code'
+# fi
+
+
+
+
+
+# Uncomment one of the following lines to change the auto-update behavior
+# zstyle ':omz:update' mode auto      # update automatically without asking
+# zstyle ':omz:update' mode reminder  # just remind me to update when it's time
+# zstyle ':omz:update' mode disabled  # disable automatic updates
+
+# Uncomment the following line to change how often to auto-update (in days).
+# zstyle ':omz:update' frequency 13
+
+
+# Uncomment the following line if pasting URLs and other text is messed up.
+# DISABLE_MAGIC_FUNCTIONS="true"
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS="true"
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION="true"
+
+
+
+# For a full list of active aliases, run `alias`.
+
+# Aliases can be placed here or in the $ZSH_CUSTOM folder, with .zsh extension. Examples:
+# - $ZSH_CUSTOM/aliases.zsh
+# - $ZSH_CUSTOM/macos.zsh
+
+
+
+
+HISTFILE=~/.histfile
+HISTSIZE=25
+SAVEHIST=10000
+bindkey -e
+
+zstyle :compinstall filename '/home/maurod/.zshrc'
+
+autoload -Uz compinit
+compinit
+
+
+
+
+# EJECUTAR TODO #
+source $ZSH/oh-my-zsh.sh

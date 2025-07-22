@@ -1,0 +1,18 @@
+2025/07/21-21:51:53.617 4 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/07/21-21:51:53.618 4 Recovering log #230
+2025/07/21-21:51:54.030 4 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000230.log 
+2025/07/21-22:44:53.474 5 Level-0 table #234: started
+2025/07/21-22:44:53.536 5 Level-0 table #234: 20676 bytes OK
+2025/07/21-22:44:53.604 5 Delete type=0 #230
+2025/07/21-22:50:51.573 5 Level-0 table #236: started
+2025/07/21-22:50:51.739 5 Level-0 table #236: 21473 bytes OK
+2025/07/21-22:50:51.772 5 Delete type=0 #233
+2025/07/21-22:50:51.772 5 Compacting 4@0 + 1@1 files
+2025/07/21-22:50:51.817 5 Generated table #237@0: 8251 keys, 173587 bytes
+2025/07/21-22:50:51.817 5 Compacted 4@0 + 1@1 files => 173587 bytes
+2025/07/21-22:50:51.849 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/21-22:50:51.849 5 Delete type=2 #231
+2025/07/21-22:50:51.849 5 Delete type=2 #234
+2025/07/21-22:50:51.849 5 Delete type=2 #236
+2025/07/21-22:50:51.849 5 Delete type=2 #227
+2025/07/21-22:50:51.849 5 Delete type=2 #229

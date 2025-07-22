@@ -1,0 +1,9 @@
+2025/07/21-12:41:23.184 6e43 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/21-12:41:23.184 6e43 Recovering log #3
+2025/07/21-12:41:23.187 6e43 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2025/07/21-12:42:21.845 6e44 Level-0 table #5: started
+2025/07/21-12:42:21.950 6e44 Level-0 table #5: 2734812 bytes OK
+2025/07/21-12:42:22.042 6e44 Delete type=0 #3
+2025/07/21-12:42:44.463 6e44 Level-0 table #7: started
+2025/07/21-12:42:44.556 6e44 Level-0 table #7: 3121180 bytes OK
+2025/07/21-12:42:44.603 6e44 Delete type=0 #4

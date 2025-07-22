@@ -1,0 +1,135 @@
+{
+    "layer": "bottom",
+    "position": "bottom",
+    "margin-left": 10,
+    "margin-right": 10,
+    "margin-top": 0,
+    "margin-bottom": 7,
+    "reload_style_on_change": true,
+    "modules-left": ["custom/notification","custom/uptime", "custom/weather"],
+    "modules-center": ["clock"],
+    "modules-right": ["group/expand", "pulseaudio", "custom/mic", "network", "hyprland/workspaces"],
+
+    "custom/uptime": {
+        "exec": "uptime -p | sed 's/up //'",
+        "interval": 60
+    },
+
+    "custom/mic": {
+        "format": "{}  ",
+        "return-type": "json",
+        "interval": 2,
+        "exec": "bash -c 'pamixer --default-source --get-mute | grep -q true && echo \"{\\\"text\\\": \\\"\\\"}\" || echo \"{\\\"text\\\": \\\"\\\"}\"'",
+        "on-click": "pamixer --default-source -t"
+    },
+    "custom/weather": {
+        "exec": "curl -s 'wttr.in/Asuncion?format=1'",
+        "interval": 1800
+    },
+
+    "pulseaudio": {
+        "format": "{icon} {volume}%  ",
+        "format-muted": "",
+        "format-icons": {
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol",
+        "on-click-right": "pamixer -t"
+    },
+    "custom/notification": {
+        "tooltip": false,
+        "format": "\t",
+        "on-click": "dunstctl history",
+        "escape": true
+    },
+    "clock": {
+        "format": "{:%T\n%D}",
+        "interval": 1,   
+        "tooltip-format": "<tt>{calendar}</tt>",
+        "calendar": {
+            "format": {
+                "today": "<span color='#ff0000'><b>{}</b></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "shift_down",
+            "on-click": "shift_up"
+        }
+    },
+    "network": {
+        "format-wifi": "  ",
+        "format-ethernet":"  ",
+        "format-disconnected": "  ",
+        "tooltip-format-disconnected": "Error",
+        "tooltip-format-wifi": "{essid} ({signalStrength}%) ",
+        "tooltip-format-ethernet": "{ifname} 🖧  ",
+        "on-click": "kitty nmtui"
+    },
+    
+    "bluetooth": {
+        "format-on": "󰂯",
+        "format-off": "BT-off",
+        "format-disabled": "󰂲",
+        "format-connected-battery": "{device_battery_percentage}% 󰂯",
+        "format-alt": "{device_alias} 󰂯",
+        "tooltip-format": "{controller_alias}\t{controller_address}\n\n{num_connections} connected",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{num_connections} connected\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\n{device_address}",
+        "tooltip-format-enumerate-connected-battery": "{device_alias}\n{device_address}\n{device_battery_percentage}%",
+        "on-click-right": "blueman-manager",
+    }, 
+    
+    "custom/expand": {
+        "format": "   ",
+        "tooltip": false
+    },
+    "custom/endpoint":{
+        "format": "|",
+        "tooltip": false
+    },
+
+
+    "group/expand": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 600,
+            "transition-to-left": true,
+            "click-to-reveal": true
+        },
+        "modules": ["custom/expand", "custom/colorpicker","cpu","memory","temperature","custom/endpoint"],
+    },
+    "custom/colorpicker": {
+        "format": "{}",
+        "return-type": "json",
+        "interval": "once",
+        "exec": "~/.config/waybar/scripts/colorpicker.sh -j",
+        "on-click": "~/.config/waybar/scripts/colorpicker.sh",
+        "signal": 1
+    },
+    "cpu": {
+        "format": "󰻠",
+        "tooltip": true
+    },
+    "memory": {
+        "format": ""
+    },
+    "temperature": {
+        "critical-threshold": 80,
+        "format": "",
+    },
+    
+    
+    
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "active": "",
+            "default": "",
+            "empty": ""
+        },
+        "persistent-workspaces": {
+            "*": [ 1,2,3,4,5,6,7,8,9 ]
+        }
+    },
+} 
+

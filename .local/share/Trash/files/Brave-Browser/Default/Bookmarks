@@ -1,0 +1,918 @@
+{
+   "checksum": "4281a3fd703ca11d06b0bb5751336ba8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13352410967000000",
+               "date_last_used": "13375486894632122",
+               "guid": "4b3c4a1b-448b-436f-99ca-0ce67936b56c",
+               "id": "6",
+               "name": "Scribd: Explora más de 170 millones de documentos de una comunidad global",
+               "type": "url",
+               "url": "https://es.scribd.com/home"
+            }, {
+               "date_added": "13331533269000000",
+               "date_last_used": "0",
+               "guid": "c3a09c06-c30c-4462-b86b-079cfaf951e3",
+               "id": "7",
+               "name": "Windy",
+               "type": "url",
+               "url": "https://www.windy.com/es/-Temperatura-temp?temp,-26.136,-66.819,5,m:cWXaey8"
+            }, {
+               "date_added": "13344376431000000",
+               "date_last_used": "0",
+               "guid": "7f4a51a6-28b6-44a1-8b4a-a4bb0c227350",
+               "id": "8",
+               "name": "Calendario 2024 con festivos y selector de fecha - AS",
+               "type": "url",
+               "url": "https://www.wincalendar.com/calendario/America/2024"
+            }, {
+               "date_added": "13345583601000000",
+               "date_last_used": "0",
+               "guid": "07b52837-5ede-415a-9cb9-bcd34bb620d1",
+               "id": "9",
+               "name": "TuLengua.es",
+               "type": "url",
+               "url": "https://tulengua.es/"
+            }, {
+               "date_added": "13357955631000000",
+               "date_last_used": "13394571010003095",
+               "guid": "73f10385-f4ca-4a6c-afe2-e6c84cfb2ddb",
+               "id": "10",
+               "name": "Bancodeimagenes",
+               "type": "url",
+               "url": "https://www.freepik.es/"
+            }, {
+               "date_added": "13345914325000000",
+               "date_last_used": "0",
+               "guid": "460837b5-6ccd-4aba-9f2b-1f78e0931b0b",
+               "id": "11",
+               "name": "Conjugação de Verbos",
+               "type": "url",
+               "url": "https://www.conjugacao.com.br/"
+            }, {
+               "date_added": "13346893474000000",
+               "date_last_used": "0",
+               "guid": "566ad655-c081-4db1-93f5-6ba38fa88ea7",
+               "id": "12",
+               "name": "Praticar conjugar verbos em Português",
+               "type": "url",
+               "url": "https://www.verbos-portugueses.info/pt/praticar"
+            }, {
+               "date_added": "13350182409000000",
+               "date_last_used": "0",
+               "guid": "ce4420a5-1b1e-4170-90d5-8157d932e063",
+               "id": "13",
+               "name": "ROJADIRECTA",
+               "type": "url",
+               "url": "https://www.rojadirecta.today/"
+            }, {
+               "date_added": "13356158549000000",
+               "date_last_used": "0",
+               "guid": "3ce9b89a-8ee1-475b-b309-31295d903a3b",
+               "id": "14",
+               "name": "Modelos en 3D - Turbosquid",
+               "type": "url",
+               "url": "https://www.turbosquid.com/es/"
+            }, {
+               "children": [ {
+                  "date_added": "13337657552000000",
+                  "date_last_used": "0",
+                  "guid": "8fc56231-9d90-46b0-a647-ac617be4be75",
+                  "id": "16",
+                  "name": "Mathway | Solucionador de problemas de álgebra",
+                  "type": "url",
+                  "url": "https://www.mathway.com/es/Algebra"
+               }, {
+                  "date_added": "13344558395000000",
+                  "date_last_used": "0",
+                  "guid": "3b31b188-3dec-4cf5-be59-2c1a2db686aa",
+                  "id": "17",
+                  "name": "Propiedades de los Logaritmos Naturales - Neurochispas",
+                  "type": "url",
+                  "url": "https://www.neurochispas.com/wiki/propiedades-de-los-logaritmos-naturales/"
+               }, {
+                  "date_added": "13344366818000000",
+                  "date_last_used": "13380686249306613",
+                  "guid": "baf4f592-a795-45fe-acca-ca167ad34f22",
+                  "id": "18",
+                  "name": "Calculadora de Matrices",
+                  "type": "url",
+                  "url": "https://matrixcalc.org/es/"
+               }, {
+                  "date_added": "13348327524000000",
+                  "date_last_used": "13368769045809485",
+                  "guid": "63578f04-908a-4027-84a5-9637ec107f40",
+                  "id": "19",
+                  "name": "Suite Calculadora - GeoGebra",
+                  "type": "url",
+                  "url": "https://www.geogebra.org/calculator"
+               }, {
+                  "date_added": "13349818532000000",
+                  "date_last_used": "0",
+                  "guid": "fa06306d-6997-488a-bee4-4f443076822f",
+                  "id": "20",
+                  "name": "Calculadora de Derivadas • ¡Con pasos!",
+                  "type": "url",
+                  "url": "https://www.calculadora-de-derivadas.com/"
+               }, {
+                  "date_added": "13350198847000000",
+                  "date_last_used": "0",
+                  "guid": "d9648c2c-fe5f-45b8-bf34-e4ef61202186",
+                  "id": "21",
+                  "name": "MATHCHA",
+                  "type": "url",
+                  "url": "https://www.mathcha.io/editor"
+               } ],
+               "date_added": "13362883421242206",
+               "date_last_used": "0",
+               "date_modified": "13362883421242206",
+               "guid": "43c39cf2-237a-48de-9262-d231b2c13047",
+               "id": "15",
+               "name": "Matematicas",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13358637320000000",
+                  "date_last_used": "0",
+                  "guid": "4e21dbfd-a6e4-4618-b193-e0995b2f4f80",
+                  "id": "23",
+                  "name": "National Library of Medicine - National Institutes of Health",
+                  "type": "url",
+                  "url": "https://www.nlm.nih.gov/?_gl=1*18k49hh*_ga*MTMzMzc5MTU4OC4xNzE0MTYwNzky*_ga_7147EPK006*MTcxNDE2MDc5MS4xLjEuMTcxNDE2MDg1NS4wLjAuMA..*_ga_P1FPTH9PL4*MTcxNDE2MDc5MS4xLjEuMTcxNDE2MDg1NS4wLjAuMA..&_ga=2.118839241.173037917.1714160792-1333791588.1714160792"
+               }, {
+                  "date_added": "13358034326000000",
+                  "date_last_used": "0",
+                  "guid": "abce5844-76a1-488a-bf00-eb439f288091",
+                  "id": "24",
+                  "name": "ENCICLOPEDIA concepto",
+                  "type": "url",
+                  "url": "https://concepto.de/"
+               } ],
+               "date_added": "13362883421245017",
+               "date_last_used": "0",
+               "date_modified": "13362883421245017",
+               "guid": "68999616-4e39-4f55-bbb2-ba9cf9d6e7a2",
+               "id": "22",
+               "name": "Investigaciones",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13357958105000000",
+                  "date_last_used": "0",
+                  "guid": "c55d0a97-8a0f-4650-9f13-7ba78e224685",
+                  "id": "26",
+                  "name": "MITIC",
+                  "type": "url",
+                  "url": "https://mitic.gov.py/"
+               }, {
+                  "date_added": "13358012734000000",
+                  "date_last_used": "13383785762649261",
+                  "guid": "4e2d1868-3c93-4f87-a618-6bca3d6213ab",
+                  "id": "27",
+                  "name": "Identidad Electrónica",
+                  "type": "url",
+                  "url": "https://www.paraguay.gov.py/"
+               }, {
+                  "date_added": "13352738519000000",
+                  "date_last_used": "0",
+                  "guid": "c546aa3c-ea1d-4c1c-863b-22534b434d48",
+                  "id": "28",
+                  "name": "sicca",
+                  "type": "url",
+                  "url": "https://www.paraguayconcursa.gov.py/sicca/seleccion/buscarConcurso/postulacion/publicados.seam"
+               } ],
+               "date_added": "13362883421245091",
+               "date_last_used": "0",
+               "date_modified": "13362883421245091",
+               "guid": "5dd9eaf8-f6d5-47f4-9d95-f5d44f1e293e",
+               "id": "25",
+               "name": "Gobierno",
+               "type": "folder"
+            }, {
+               "date_added": "13331534983000000",
+               "date_last_used": "0",
+               "guid": "43e87259-154e-491b-ac77-e22802c92c4c",
+               "id": "29",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chat.openai.com/"
+            }, {
+               "date_added": "13360427052000000",
+               "date_last_used": "13393458670656132",
+               "guid": "5f1da80f-f4da-499d-b04d-3cc0b2c7cd65",
+               "id": "30",
+               "name": "Tools Hixec — Free Cybersecurity Tools",
+               "type": "url",
+               "url": "https://tools.hixec.com/"
+            }, {
+               "date_added": "13360427189000000",
+               "date_last_used": "0",
+               "guid": "801af643-bc1e-4817-85fb-522194409dd4",
+               "id": "31",
+               "name": "VirusTotal - Home",
+               "type": "url",
+               "url": "https://www.virustotal.com/gui/home/upload"
+            }, {
+               "date_added": "13370542620837695",
+               "date_last_used": "13370545950529202",
+               "guid": "3f6e163c-8260-47c7-beda-b6a69f068cf6",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LucidChart",
+               "type": "url",
+               "url": "https://lucid.app/documents#/documents?folder_id=home"
+            }, {
+               "date_added": "13358794203000000",
+               "date_last_used": "0",
+               "guid": "7999aea2-ef20-4f94-b4bd-ed2c95e74075",
+               "id": "33",
+               "name": "r/Paraguay",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Paraguay/"
+            }, {
+               "date_added": "13362188666000000",
+               "date_last_used": "0",
+               "guid": "6b52d28f-f542-44e5-8385-ce1a37ac52e0",
+               "id": "34",
+               "name": "LeetCode",
+               "type": "url",
+               "url": "https://leetcode.com/"
+            }, {
+               "date_added": "13364508088607395",
+               "date_last_used": "0",
+               "guid": "18bcc77d-d571-4624-adb2-330fbfbd9087",
+               "id": "35",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Guarani",
+               "type": "url",
+               "url": "https://es.glosbe.com/"
+            }, {
+               "date_added": "13363019106190075",
+               "date_last_used": "0",
+               "guid": "c5cfaf79-274e-40e5-be09-2268a191704a",
+               "id": "36",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Notion",
+               "type": "url",
+               "url": "https://www.notion.so/4cf9ccbd5c454eb092648f40650330d8"
+            }, {
+               "date_added": "13364704433162313",
+               "date_last_used": "0",
+               "guid": "5334f1b0-4238-4807-97cd-384169bc7f0a",
+               "id": "37",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Calendario de Google - Semana del 8 julio 2024",
+               "type": "url",
+               "url": "https://calendar.google.com/calendar/u/0/r/week/2024/7/12"
+            }, {
+               "date_added": "13366953091104267",
+               "date_last_used": "13369009914653738",
+               "guid": "08362f20-240c-451f-9848-f66a1a683bf4",
+               "id": "38",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13368920312992246",
+               "date_last_used": "13368922001423228",
+               "guid": "42dd7164-dbb6-40a4-8136-63f1e0078cb9",
+               "id": "39",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Photoshop2",
+               "type": "url",
+               "url": "https://www.photopea.com/"
+            }, {
+               "date_added": "13371365110699760",
+               "date_last_used": "0",
+               "guid": "92adb259-3175-47ae-b7ab-2eba736a775d",
+               "id": "40",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Git Explorer",
+               "type": "url",
+               "url": "https://git.gaozih.com/"
+            }, {
+               "date_added": "13371914723851388",
+               "date_last_used": "0",
+               "guid": "4502ef10-4bd4-416d-b564-83a6abb1fbd5",
+               "id": "41",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Colores",
+               "type": "url",
+               "url": "https://www.colorhexa.com/"
+            }, {
+               "date_added": "13389071335874355",
+               "date_last_used": "13396925649942312",
+               "guid": "23237bcb-155a-4d79-a791-15989c09c39f",
+               "id": "42",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "chosic",
+               "type": "url",
+               "url": "https://www.chosic.com/"
+            }, {
+               "date_added": "13390166294915199",
+               "date_last_used": "13395724801843366",
+               "guid": "69828acb-a706-4328-aa30-a55e2783a314",
+               "id": "43",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Office365",
+               "type": "url",
+               "url": "https://m365.cloud.microsoft/?auth=1"
+            } ],
+            "date_added": "13362883421241944",
+            "date_last_used": "0",
+            "date_modified": "13390166294915199",
+            "guid": "5f3c2a02-09eb-43f2-87af-cdd59b2b6943",
+            "id": "5",
+            "name": "HERRAMIENTAS VARIAS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13352410954000000",
+               "date_last_used": "13365124792244548",
+               "guid": "5bfb8a44-c7a6-4561-a0f6-ffeec5325fae",
+               "id": "45",
+               "name": "Dashboard | Musescore.com",
+               "type": "url",
+               "url": "https://musescore.com/dashboard#login-modal"
+            }, {
+               "date_added": "13352734534000000",
+               "date_last_used": "0",
+               "guid": "5305628a-90af-402c-8eb4-806c39e3af47",
+               "id": "46",
+               "name": "Adventure Learning Videos - Faber Piano Adventures",
+               "type": "url",
+               "url": "https://pianoadventures.com/adventure-learning-videos/"
+            }, {
+               "date_added": "13352400302000000",
+               "date_last_used": "0",
+               "guid": "b07bcc45-2b86-45e7-9406-c3c2d9413e86",
+               "id": "47",
+               "name": "Reddit ",
+               "type": "url",
+               "url": "https://www.reddit.com/"
+            }, {
+               "date_added": "13352410927000000",
+               "date_last_used": "0",
+               "guid": "5c36b697-192d-448b-8613-1e3adbd10365",
+               "id": "48",
+               "name": "IMSLP: Free Sheet Music PDF Download",
+               "type": "url",
+               "url": "https://imslp.org/"
+            }, {
+               "date_added": "13352410914000000",
+               "date_last_used": "0",
+               "guid": "af5574b3-a8d8-4e69-a115-a9bdf6f2efd1",
+               "id": "49",
+               "name": "MUSOPEN",
+               "type": "url",
+               "url": "https://musopen.org/"
+            }, {
+               "date_added": "13352409981000000",
+               "date_last_used": "0",
+               "guid": "b29cb487-0ef1-401a-892c-193bba339820",
+               "id": "50",
+               "name": "Ichigo's Sheet Music - Game and Anime Sheet Music",
+               "type": "url",
+               "url": "https://ichigos.com/search"
+            }, {
+               "date_added": "13352410941000000",
+               "date_last_used": "0",
+               "guid": "b83f06d8-07ea-4c19-b828-ed8583cd0427",
+               "id": "51",
+               "name": "NinSheetMusic - Video Game Sheet Music",
+               "type": "url",
+               "url": "https://www.ninsheetmusic.org/"
+            }, {
+               "date_added": "13353088859000000",
+               "date_last_used": "0",
+               "guid": "6cfb9cc3-3740-480b-b01d-194916d74291",
+               "id": "52",
+               "name": "▷ FREE SHEET MUSIC PDF : Free Piano Sheet Music PDF Download",
+               "type": "url",
+               "url": "https://sheetmusic-free.com/"
+            } ],
+            "date_added": "13362883421245218",
+            "date_last_used": "0",
+            "date_modified": "13362883421245218",
+            "guid": "f25fbb17-2c83-4496-abf8-97afb199dbec",
+            "id": "44",
+            "name": "Música",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13354745805000000",
+               "date_last_used": "13368435498717636",
+               "guid": "5149fe44-81af-477b-90e6-4661c0027576",
+               "id": "54",
+               "name": "SAPIENTIA",
+               "type": "url",
+               "url": "https://alumnos.sapientia.uc.edu.py/login/"
+            }, {
+               "date_added": "13369777314154033",
+               "date_last_used": "0",
+               "guid": "0f9dd757-0c15-4824-add6-c48d6018e46c",
+               "id": "55",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Classroom",
+               "type": "url",
+               "url": "https://classroom.google.com/u/1/h?pli=1"
+            }, {
+               "date_added": "13378489426295015",
+               "date_last_used": "0",
+               "guid": "0e9e874b-8467-4b8c-acd0-76728fc4a2d1",
+               "id": "56",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "E-libro",
+               "type": "url",
+               "url": "https://elibro.net/es/lc/bibliouc/inicio/"
+            } ],
+            "date_added": "13362883421245413",
+            "date_last_used": "0",
+            "date_modified": "13378489426295015",
+            "guid": "b6bb8d95-b799-4792-85f5-0fac2dcb1cc4",
+            "id": "53",
+            "name": "UCA",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13384197190418091",
+               "date_last_used": "0",
+               "guid": "b99f8daf-be33-43a1-bbe0-ed35589c5cd0",
+               "id": "58",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FX Replay",
+               "type": "url",
+               "url": "https://app.fxreplay.com/auth/dashboard"
+            }, {
+               "date_added": "13368718801150806",
+               "date_last_used": "13369181527008778",
+               "guid": "4628f5a8-3d5f-4368-bb08-69e0192ab7dc",
+               "id": "59",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FxPro Direct",
+               "type": "url",
+               "url": "https://direct.fxpro.group/es/wallet"
+            }, {
+               "date_added": "13370825288798706",
+               "date_last_used": "0",
+               "guid": "3f3bad53-8dac-4cc6-990c-f20f4a8b7e16",
+               "id": "60",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FX pro Edge",
+               "type": "url",
+               "url": "https://edge.fxpro.group/"
+            }, {
+               "date_added": "13366611282308314",
+               "date_last_used": "13370150272669061",
+               "guid": "2a75c60d-82a6-4fca-8e0f-cae693fe8328",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Forex Factory",
+               "type": "url",
+               "url": "https://www.forexfactory.com/calendar"
+            } ],
+            "date_added": "13370825267015858",
+            "date_last_used": "0",
+            "date_modified": "13384197190418091",
+            "guid": "ac463062-3391-42ed-bfc4-87e85f0e7b4a",
+            "id": "57",
+            "name": "TRD",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13357798205000000",
+               "date_last_used": "0",
+               "guid": "38c8a6a6-679a-4171-a81e-9e1abd8e5d56",
+               "id": "63",
+               "name": "Cisco Skills For All",
+               "type": "url",
+               "url": "https://skillsforall.com/dashboard"
+            }, {
+               "date_added": "13374337466951323",
+               "date_last_used": "0",
+               "guid": "bb7115c5-9a4a-41fd-92c9-b2e207bfb42e",
+               "id": "64",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "UDEMY",
+               "type": "url",
+               "url": "https://www.udemy.com/home/my-courses/learning/"
+            }, {
+               "date_added": "13331535073000000",
+               "date_last_used": "13370736181156911",
+               "guid": "eb575239-b1af-4e18-866a-73f1d450c71b",
+               "id": "65",
+               "name": "Campus virtual SNPP",
+               "type": "url",
+               "url": "https://campus.mitic.gov.py/login/index.php"
+            }, {
+               "date_added": "13342156491000000",
+               "date_last_used": "13364679007437421",
+               "guid": "4fd70edc-05ef-4e80-9516-47eeb67154f2",
+               "id": "66",
+               "name": "Skillshare",
+               "type": "url",
+               "url": "https://www.skillshare.com/home"
+            }, {
+               "date_added": "13385930949156859",
+               "date_last_used": "0",
+               "guid": "04e79232-6d78-4450-a8bc-346c9194415c",
+               "id": "67",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Datalemur",
+               "type": "url",
+               "url": "https://datalemur.com/"
+            }, {
+               "date_added": "13371651722924436",
+               "date_last_used": "13371944230112648",
+               "guid": "6109650f-b0eb-45fc-96ed-09e4b4244bb9",
+               "id": "68",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "W3Schools",
+               "type": "url",
+               "url": "https://www.w3schools.com/"
+            }, {
+               "date_added": "13372514713002964",
+               "date_last_used": "0",
+               "guid": "d220d827-5182-4507-a5d2-22f2dd1687c7",
+               "id": "69",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "midudev",
+               "type": "url",
+               "url": "https://midu.dev/"
+            }, {
+               "date_added": "13350676291000000",
+               "date_last_used": "13374955446671383",
+               "guid": "9343c14c-4c01-4420-9f61-7de83569ae36",
+               "id": "70",
+               "name": "Facialix - Noticias, cursos, tutoriales y más",
+               "type": "url",
+               "url": "https://blog.facialix.com/"
+            }, {
+               "date_added": "13368732830075316",
+               "date_last_used": "0",
+               "guid": "291e3d72-97d9-4a3c-8f15-2caf393bf356",
+               "id": "71",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Sumar",
+               "type": "url",
+               "url": "https://bnf.sumar.com.py/my/"
+            }, {
+               "date_added": "13368732840268856",
+               "date_last_used": "0",
+               "guid": "3095b8c5-e740-4281-8a20-7ffd62bd050a",
+               "id": "72",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ITS - DNCP",
+               "type": "url",
+               "url": "https://www.dncp.edu.py/capvirtual/login/index.php"
+            }, {
+               "date_added": "13368734692688215",
+               "date_last_used": "0",
+               "guid": "59b70bfb-3bd6-4e87-bb24-7b6223c7f2d4",
+               "id": "73",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CURSOS BCP",
+               "type": "url",
+               "url": "https://www.bcp.gov.py/ibcp/eventos"
+            }, {
+               "date_added": "13372516133410178",
+               "date_last_used": "0",
+               "guid": "63173fe8-dd56-4ef4-b690-932194442733",
+               "id": "74",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "FullStack",
+               "type": "url",
+               "url": "https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13375059724597290",
+                  "date_last_used": "0",
+                  "date_modified": "13375059724597290",
+                  "guid": "8b759e6f-18f4-4627-b038-7f53d0df1e91",
+                  "id": "76",
+                  "name": "JS",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13372531929079607",
+                     "date_last_used": "0",
+                     "guid": "c67fc5b0-ae99-4ee4-a828-555175f2dd56",
+                     "id": "78",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "CSS manz",
+                     "type": "url",
+                     "url": "https://lenguajecss.com/css/"
+                  }, {
+                     "date_added": "13371769916776889",
+                     "date_last_used": "13371944231035939",
+                     "guid": "fc7757c7-dece-4a3d-8669-301712aadc77",
+                     "id": "79",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "CSS",
+                     "type": "url",
+                     "url": "https://web.dev/learn/css?hl=es"
+                  } ],
+                  "date_added": "13375059720816022",
+                  "date_last_used": "0",
+                  "date_modified": "13375059720816022",
+                  "guid": "bd3c4c21-f931-4c3b-887c-74ab6f1fb7c9",
+                  "id": "77",
+                  "name": "CSS",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13371675343954294",
+                     "date_last_used": "13371944227950869",
+                     "guid": "367e2d3d-6a1f-4f32-b336-457efd9d395a",
+                     "id": "81",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "HTML",
+                     "type": "url",
+                     "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+                  }, {
+                     "date_added": "13371769932840774",
+                     "date_last_used": "13371944230426054",
+                     "guid": "deb166ff-a2b6-4d10-bf99-13579df5cf77",
+                     "id": "82",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "HTML",
+                     "type": "url",
+                     "url": "https://web.dev/learn/html"
+                  } ],
+                  "date_added": "13375059706601328",
+                  "date_last_used": "0",
+                  "date_modified": "13375059706601328",
+                  "guid": "8476956e-6e72-4aa6-8079-cde4f6c38722",
+                  "id": "80",
+                  "name": "HTML",
+                  "type": "folder"
+               }, {
+                  "date_added": "13375896043614147",
+                  "date_last_used": "0",
+                  "guid": "38cb91b3-1563-4770-a3c8-2c740f5969e8",
+                  "id": "83",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "DevDocs - Documentacion general",
+                  "type": "url",
+                  "url": "https://devdocs.io/"
+               }, {
+                  "date_added": "13375059666023882",
+                  "date_last_used": "0",
+                  "guid": "368c8b90-d580-4066-ab9c-360777b6ff75",
+                  "id": "84",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Documentacion Bootstrap",
+                  "type": "url",
+                  "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
+               }, {
+                  "date_added": "13375060006438681",
+                  "date_last_used": "0",
+                  "guid": "23a55830-c945-4f1d-8577-b9b9d1988d06",
+                  "id": "85",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Documentacion Django",
+                  "type": "url",
+                  "url": "https://docs.djangoproject.com/en/5.1/"
+               }, {
+                  "date_added": "13375060030478670",
+                  "date_last_used": "0",
+                  "guid": "ef3a9dfe-d43b-4ba9-86b5-c1a697d5a9ff",
+                  "id": "86",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Documentacion React",
+                  "type": "url",
+                  "url": "https://es.react.dev/learn"
+               }, {
+                  "date_added": "13375551011031249",
+                  "date_last_used": "0",
+                  "guid": "d2b46328-d69e-46bb-a309-d0f44335c2a6",
+                  "id": "87",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Tarea 2 - ABIERTA - Archivo Secuencial",
+                  "type": "url",
+                  "url": "https://classroom.google.com/u/1/c/NzAzMDI3Nzc0Mjc3/a/NzAzMDI3Nzc0NDE2/details"
+               }, {
+                  "date_added": "13375672241315112",
+                  "date_last_used": "0",
+                  "guid": "0a0d2820-eeb1-4c1d-82a2-afc3c78469a2",
+                  "id": "88",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Documentacion VUE",
+                  "type": "url",
+                  "url": "https://vuejs.org/guide/introduction.html"
+               }, {
+                  "date_added": "13379784043058491",
+                  "date_last_used": "0",
+                  "guid": "86eb4d96-23ef-4fd7-970a-bea70145325d",
+                  "id": "89",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "MySQL",
+                  "type": "url",
+                  "url": "https://dev.mysql.com/doc/workbench/en/"
+               }, {
+                  "date_added": "13391490762836833",
+                  "date_last_used": "0",
+                  "guid": "54c680e2-47cb-4fe3-80f4-70a7417bc5dc",
+                  "id": "90",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Conda documentation",
+                  "type": "url",
+                  "url": "https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html"
+               }, {
+                  "date_added": "13396363966804904",
+                  "date_last_used": "0",
+                  "guid": "4b9e34af-b5db-47b8-8426-041953e8d8c4",
+                  "id": "91",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Dash to Panel - GNOME Shell Extensions",
+                  "type": "url",
+                  "url": "https://extensions.gnome.org/extension/1160/dash-to-panel/"
+               }, {
+                  "date_added": "13397104402005998",
+                  "date_last_used": "0",
+                  "guid": "1ed26e1f-725e-4273-bbc6-6a0cf9e8fc11",
+                  "id": "98",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub - hyprwm/hyprpaper: Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.",
+                  "type": "url",
+                  "url": "https://github.com/hyprwm/hyprpaper"
+               } ],
+               "date_added": "13375059731888867",
+               "date_last_used": "0",
+               "date_modified": "13397365867726611",
+               "guid": "83555005-f10f-46d3-ae89-bad75f7a6ea2",
+               "id": "75",
+               "name": "Documentacion",
+               "type": "folder"
+            }, {
+               "date_added": "13375558049694811",
+               "date_last_used": "0",
+               "guid": "cbdb1563-41b2-4b91-b335-19c99ac63579",
+               "id": "92",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Vue Playground",
+               "type": "url",
+               "url": "https://play.vuejs.org/"
+            }, {
+               "date_added": "13377867343246531",
+               "date_last_used": "0",
+               "guid": "1aaa85b0-1b35-425c-90de-fc9f4d0cfa72",
+               "id": "93",
+               "name": "Cisco Skills For All (1)",
+               "type": "url",
+               "url": "https://skillsforall.com/dashboard"
+            }, {
+               "date_added": "13377917408190151",
+               "date_last_used": "0",
+               "guid": "d11c71f1-dfac-4735-819e-257b20bb02ed",
+               "id": "94",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Kaggle",
+               "type": "url",
+               "url": "https://www.kaggle.com/"
+            }, {
+               "date_added": "13379693006542664",
+               "date_last_used": "0",
+               "guid": "9bf5bc02-44ea-458e-a78b-68645dfdb176",
+               "id": "95",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Tableau ",
+               "type": "url",
+               "url": "https://public.tableau.com/app/discover"
+            } ],
+            "date_added": "13362883421245320",
+            "date_last_used": "0",
+            "date_modified": "13385930949156859",
+            "guid": "638802c8-23f9-4495-aff8-3851fd9f559d",
+            "id": "62",
+            "name": "Cursos",
+            "type": "folder"
+         } ],
+         "date_added": "13396582034498183",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13396582034498183",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13379857136379874",
+            "date_last_used": "0",
+            "guid": "50b8ef9c-3a8b-4285-aa2f-96e027cf951c",
+            "id": "96",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Consigue clientes y aumenta tus ventas con la publicidad en línea - Google Ads",
+            "type": "url",
+            "url": "https://ads.google.com/intl/es-419/home/"
+         } ],
+         "date_added": "13396582034498183",
+         "date_last_used": "0",
+         "date_modified": "13379857136379874",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del dispositivo",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

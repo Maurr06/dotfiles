@@ -1,0 +1,1 @@
+  263  alias killtty2='ps -t tty2 -o pid= | xargs -r kill -9'\n

@@ -1,0 +1,20 @@
+[Thumbnailer Scheduler]
+MaxConcurrent=2
+Priority=2
+CacheSize=524288000
+
+[General]
+# Puedes agregar esto para ignorar ciertos tipos si querés más velocidad
+# Exclude=*.svg;*.tiff
+
+[Pixbuf Thumbnailer]
+Disabled=false
+
+[JPEG Thumbnailer]
+Disabled=false
+
+[PNG Thumbnailer]
+Disabled=false
+
+[FFmpeg Thumbnailer]
+Disabled=false

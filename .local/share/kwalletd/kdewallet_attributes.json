@@ -1,0 +1,51 @@
+{
+    "$fdo_created": "1752101758",
+    "$fdo_modified": "1752184681",
+    "Brave Keys/Brave Safe Storage": {
+        "$fdo_created": "1752108434",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1752108434",
+        "attributes": {
+            "server": "Brave Keys",
+            "type": "plaintext",
+            "user": "Brave Safe Storage",
+            "xdg:schema": "org.qt.keychain"
+        }
+    },
+    "xdg-desktop-portal/brave-browser": {
+        "$fdo_created": "1752113850",
+        "$fdo_modified": "1752113850",
+        "attributes": {
+            "server": "xdg-desktop-portal",
+            "type": "binary",
+            "user": "brave-browser"
+        }
+    },
+    "xdg-desktop-portal/brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default": {
+        "$fdo_created": "1752184681",
+        "$fdo_modified": "1752184681",
+        "attributes": {
+            "server": "xdg-desktop-portal",
+            "type": "binary",
+            "user": "brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default"
+        }
+    },
+    "xdg-desktop-portal/org.kde.konsole": {
+        "$fdo_created": "1752113850",
+        "$fdo_modified": "1752113850",
+        "attributes": {
+            "server": "xdg-desktop-portal",
+            "type": "binary",
+            "user": "org.kde.konsole"
+        }
+    },
+    "xdg-desktop-portal/thunar": {
+        "$fdo_created": "1752184681",
+        "$fdo_modified": "1752184681",
+        "attributes": {
+            "server": "xdg-desktop-portal",
+            "type": "binary",
+            "user": "thunar"
+        }
+    }
+}

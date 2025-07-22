@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///opt/brave-bin/brave --profile-directory=Default --app-id=hnpfjngllnobngcgfapefoaidbinmjnm,1 exec:///usr/bin/konsole,1 exec:///usr/lib/firefox/firefox,1 krunner_systemsettings_kcm_nightlight
+
+[PlasmaRunnerManager][History]
+0986e1d5-70d4-4473-85e2-27294921e740=k,ko,w,f,konsole,luz

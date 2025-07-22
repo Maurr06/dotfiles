@@ -1,0 +1,25 @@
+2025/07/20-00:30:33.094 26840 Reusing MANIFEST /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-00:30:33.095 26840 Recovering log #32
+2025/07/20-00:30:33.097 26840 Reusing old log /home/maurod/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000032.log 
+2025/07/20-00:30:44.443 2683e Level-0 table #37: started
+2025/07/20-00:30:44.501 2683e Level-0 table #37: 1331839 bytes OK
+2025/07/20-00:30:44.539 2683e Delete type=0 #32
+2025/07/20-00:37:25.642 2683f Level-0 table #39: started
+2025/07/20-00:37:25.686 2683f Level-0 table #39: 167822 bytes OK
+2025/07/20-00:37:25.720 2683f Delete type=0 #36
+2025/07/20-00:37:25.720 2683f Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x10\xe2\x80^\x82yB\x00\x03\x00\x00\x00\x00\x00\x80r@' @ 21064 : 1
+2025/07/20-00:37:25.721 2683f Compacting 1@0 + 1@1 files
+2025/07/20-00:37:25.858 2683f Generated table #40@0: 595 keys, 53984 bytes
+2025/07/20-00:37:25.859 2683f Compacted 1@0 + 1@1 files => 53984 bytes
+2025/07/20-00:37:25.896 2683f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-00:37:25.896 2683f Delete type=2 #37
+2025/07/20-00:37:25.897 2683f Delete type=2 #39
+2025/07/20-00:37:25.898 2683f Manual compaction at level-0 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x10\xe2\x80^\x82yB\x00\x03\x00\x00\x00\x00\x00\x80r@' @ 21064 : 1 .. (end); will stop at (end)
+2025/07/20-00:37:25.898 2683f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x02\x1f\x03\x000v!^\x82yB\x00\x03\x00\x00\x00\x00\x00\x006@' @ 20541 : 1
+2025/07/20-00:37:25.898 2683f Compacting 1@1 + 1@2 files
+2025/07/20-00:37:25.942 2683f Generated table #41@1: 372 keys, 61016 bytes
+2025/07/20-00:37:25.942 2683f Compacted 1@1 + 1@2 files => 61016 bytes
+2025/07/20-00:37:25.973 2683f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-00:37:25.974 2683f Delete type=2 #40
+2025/07/20-00:37:25.974 2683f Delete type=2 #34
+2025/07/20-00:37:25.975 2683f Manual compaction at level-1 from '\x00\x08\x02\x1f\x03\x000v!^\x82yB\x00\x03\x00\x00\x00\x00\x00\x006@' @ 20541 : 1 .. (end); will stop at (end)

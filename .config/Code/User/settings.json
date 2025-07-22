@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "Consolas, 'CodeNewRoman Nerd Font Propo', monospace",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 8,
+
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false 
+}

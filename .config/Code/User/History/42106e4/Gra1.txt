@@ -1,0 +1,26 @@
+CAMARA
+Este equipo\Redmi Note 10 Pro\Almacenamiento interno compartido\DCIM\Camera
+mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento interno compartido/DCIM/Camera/
+
+CARPETAS CUSTOM
+Este equipo\Redmi Note 10 Pro\Almacenamiento interno compartido\Pictures\Gallery\owner
+mtp://Xiaomi_Redmi_Note_10_Pro_55a48840/Almacenamiento interno compartido/Pictures/Gallery/owner/
+
+
+
+
+
+MULTIMEDIA WHATSAPP
+Este equipo\Redmi Note 10 Pro\Almacenamiento interno compartido\Android\media\com.whatsapp\WhatsApp\Media
+
+
+
+BACKUPS LOCALES WHATSAPP
+Este equipo\Redmi Note 10 Pro\Almacenamiento interno compartido\Android\media\com.whatsapp\WhatsApp\Databases
+
+KEY PARA BACKUPS LOCALES DE WHATSAPP (solo con root) (rootear si o si formatea todo, incluyendo token itau)
+/data/data/com.whatsapp/files/key
+
+
+Mas info:
+https://en.androidguias.com/restore-old-backups-in-whatsapp/
